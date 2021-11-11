@@ -1,0 +1,8 @@
+images/*
+*.jpg
+*.png
+*.pdf
+*.aux
+*.out
+*.toc
+*.log
