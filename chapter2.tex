@@ -1,0 +1,108 @@
+\chapter{State of the art in Distributed Cloud Manufacturing: a Review}
+\section{Introduction}
+This chapter presents a review of the state-of-the-art in Cloud Manufacturing and its related approaches and enabling key technologies. Techniques used for Cloud Manufacturing design are investigated, followed by a review of Cloud Manufacturing service management aspects. Furthermore, a review of Cloud Manufacturing architectures is provided. The result of this analysis is then used to identify gaps in the research field. This chapter aims to present, in a clear view, a unified picture regarding Cloud Manufacturing, its architectures, and applications. Hence, to provide a holistic view of the phenomena, prior research and frameworks presented in the field relevant to the research question have been analyzed. Therefore, the literature review focuses on two main concepts: cloud manufacturing and cloud manufacturing architectures. The search in academic database engines was limited to keywords related to the research topics.\\
+Previous publications, research, and knowledge have been investigated to identify the need for the research and rationalize the research path. An alignment between the research goal and issues that have not been covered satisfyingly has been addressed during the process.\\
+The search strings used in the research process are the following:
+\begin{enumerate}
+    \item TITLE-ABS-KEY("Cloud Manufacturing")
+    \item (TITLE-ABS-KEY("Cloud Manufacturing") AND \\ TITLE-ABS-KEY(Architecture) OR TITLE-ABS-KEY(Framework))
+\end{enumerate}
+To define the inclusion criteria, mentioned search terms were considered, and based on them, a set of search terms were included in the search process. The database search was conducted from 2010 to 2020 since Cloud Manufacturing is an emerging and trending topic. Furthermore, only papers in the English language have been included. Table 1 represents the delimitations, inclusion, and exclusion criteria designed for the first screening stage.\\
+\begin{table}
+    \centering
+    \begin{tabular}{|l|l|}
+        \hline
+        \textbf{Options} & \textbf{Delimitation}\\
+        \hline
+        Field & Title, Abstract, Keywords\\
+        \hline
+        Time & 2010-2020\\
+        \hline
+        Document Type & Article or Review\\
+        \hline
+        Language & English\\
+        \hline 
+    \end{tabular}    
+
+    \caption{Database search delimitations}
+    \label{tab:database-search}
+\end{table}
+
+The mentioned search terms were used for finding literature based on the inclusion of the search terms in the title, abstract, or keywords section of publications for the first screening stage. For the second screening stage, abstracts of all the selected literature were read to identify publications that might be used in the third stage that included reading through the publications. Table 2 represents the designed guideline for selecting publications after each screening stage in this literature review.
+\begin{table}
+    \centering
+    \begin{tabular}{|c|l|p{4cm}|}
+        \hline
+        \textbf{Screening Stage} & \textbf{Stage Name} & \textbf{Description}\\
+        \hline
+        1 & Title Screening & Inclusion of search terms in title, abstract or keywords \\
+        \hline
+        2 & Abstract Reading & Direct mention of cloud manufacturing context, aspects, implications, concept, algorithms, paradigms methods and/or models in the abstract \\
+        \hline
+        3 & Full Text Screening & Relevance and contribution to the aim of the research and the research questions \\
+        \hline
+    
+\end{tabular}
+
+    \caption{Publications selection process after each screening stage}
+    \label{tab:pub-sel-process}
+\end{table}
+
+In the first part of the literature review, the focus was on Cloud Manufacturing and its types, characteristics, and attributes. The results from this phase are the following:
+\begin{itemize}
+    \item Understand the cloud manufacturing concept by exploring various definitions of Cloud Manufacturing.
+    \item Show latest Cloud Manufacturing frameworks.
+    \item Identify Cloud Manufacturing key architectural factors.
+    \item Detect Cloud Manufacturing research challenges and gaps.
+\end{itemize}
+
+\chapter{Cloud Manufacturing}
+The development of new advanced manufacturing modes with the flexibility to suit the market is becoming one of the main trends of the manufacturing industry nowadays. A number of advanced manufacturing models, such as Agile Manufacturing [12], Virtual Manufacturing [13], and Networked Manufacturing, are flourishing in this context. Cloud Manufacturing was introduced in 2010 to overcome the impediments to applying Networked Manufacturing and solve more complex manufacturing problems and perform larger-scale collaborative manufacturing [9].\\
+The evolution of key enabling technologies brought a growing unpredictability of the markets, and with increased competition, manufacturing systems boundaries are extended from a factory towards new kinds of network relationships. As a result, enterprises’ mission and business strategy have also changed, e.g., from product competitive advantage towards collaborative added value, and the way enterprises perform business have been transformed [14]. Consequently, a wide range of different paradigms emerged, such as Lean Manufacturing, Agile Manufacturing, Flexible Manufacturing, reconfigurable manufacturing systems, distributed virtual manufacturing systems.\\
+Agile Manufacturing systems are designed to respond to customer and market changes quickly. Although lean and agile manufacturing concepts sound similar, they have different approaches to manufacturing engineering systems. While Lean Manufacturing responds to competitive pressure with limited resources, agile Manufacturing represents the response to complexity brought about by constant change. Flexible manufacturing systems are manufacturing systems designed to rapidly adjust their production capacity and functionality in response to new circumstances by rearranging or changing their components. Networked Manufacturing systems combine advanced manufacturing technologies with network technology to introduce Distributed Manufacturing systems through the Internet. Networked Manufacturing models provide information and resource sharing among enterprises but lack direct access to physical resources, nor does it achieve the dynamic intelligent sharing and distribution of manufacturing resources. Intelligent manufacturing systems bring those features. These are manufacturing systems enhanced with human-like capabilities [14]. Cloud manufacturing is emerging as a manufacturing paradigm that combines most of the development from previous models and attempts to solve most of their drawbacks, attracting experts, scholars, and enterprises. Cloud Manufacturing is promising in transforming today’s manufacturing industry towards service-oriented, highly collaborative, and innovative Manufacturing in the future [10]. Cloud Manufacturing is the result of adopting key enabling technologies (such as Industrial Internet of Things, Cloud Computing, Digital Twins, Big Data) by manufacturing enterprises to share resources and capabilities to enhance their response to market requirements and increase cost effectiveness[15]. The advantages of Cloud Manufacturing make it a new field of research.
+
+\begin{table}
+    \centering
+    \begin{tabular}{|p{2cm}|p{2cm}|p{3cm}|p{3cm}|}
+        \hline
+         & \textbf{Flexible manufacturing} & \textbf{Distributed (Network) manufacturing} & \textbf{Cloud manufacturing}\\
+         \hline
+         \textbf{System functions} & Cooperation & Resource sharing/cooperation  & Resource sharing/resource efficiency/cooperation \\
+         \hline
+         \textbf{System openness} & Many constraints, poor openness & Better openness & Highly open \\
+         \hline
+         \textbf{Resource type} & Organization, human, technology & Equipment, people, materials, network, information & Materials, equipment, software, hardware, logistics, human, knowledge \\
+         \hline
+         \textbf{Resource usage} & Customization & Dynamic configuration & On-demand dynamic configuration \\
+         \hline
+         \textbf{Collaboration scope} & Several companies & Companies in several industries & Companies in almost every industry \\
+        \hline
+    \end{tabular}
+    \caption{Comparison of characteristics of three advanced manufacturing models, author’s elaboration from [16]}
+    \label{tab:comp-adv-mfg-models}
+\end{table}
+
+In conclusion, the analysis of the state-of-the-art has highlighted three key trends in the evolution of manufacturing systems: (i) reconfigurability; (ii) lowering complexity; (iii) increase the need for autonomy. In addition, from the latest Smart Manufacturing techniques that mimic human-like capabilities, four interesting key factors are commonly presented in manufacturing systems:
+\begin{itemize}
+    \item self-configuration: from low level (machine) to high level (plant), the system needs to be able to drastically adapt and change
+    \item self-optimization: automated optimization methods to increase overall utilization
+    \item self-protection: being able to anticipate possible threats and provide counteractions for the short and long term
+\end{itemize}
+
+\section{Towards a common definition}
+The concept of Cloud Manufacturing was first proposed by Li Bo-Hu in China [9] and it is defined as a new networked manufacturing model that is able to solve more complex manufacturing problems and perform larger- scale collaborative manufacturing through the introduction of key enabling technologies (such as cloud computing, cloud security, high-performance computing, Internet of things) in a new service-oriented model. In this model, scattered online manufacturing resources are structured in a platform where users can access eligible manufacturing services. While Cloud Manufacturing is a relatively new concept, a variety of definitions are present in the literature from scholars that have modified and enhanced it; a selection is listed below:
+\begin{itemize}
+    \item “A customer-centric manufacturing model that exploits on-demand access to a shared collection of diversified and distributed manufacturing resources to form temporary, reconfigurable production lines which enhance efficiency, reduce product lifecycle costs and allow for optimal resource loading in response to variable- demand customer-generated tasking”[17].
+    \item “A model for enabling ubiquitous, convenient, and on-demand network access to a shared pool of configurable manufacturing resources (e.g., manufacturing software tools, manufacturing equipment, and manufacturing capabilities) that can be rapidly provisioned and released with minimal management effort or service provider interactions”[3].
+    \item “A new-generation service-oriented approach to supporting multiple companies to deploy and manage services for manufacturing operations over the Internet”[18].
+    \item “A new networked manufacturing model which aims at achieving low- cost resource sharing and efficient coordination. It transforms all kinds of manufacturing, simulation, and computing resources and abilities into manufacturing services to form a huge manufacturing cloud and distributes them to users on-demand”[2].
+\end{itemize}
+
+Xu [3] expanded the original scope of “online manufacturing resources” from Li Bo-Hu [9] including manufacturing capabilities along with manufacturing resources. In order to access such manufacturing resources, [19] and [11] emphasized the importance of key enabling technologies in the definition of Cloud Manufacturing from ICT (such as Machine Learning, Big Data, 5G) and manufacturing technologies (such as Additive Manufacturing, Intelligent Robots, and Intelligent Manufacturing techniques). From an organizational point of view, an interesting addition to the Cloud Manufacturing definition is brought by Wu [17] where on-demand services are seen as a trigger to create instant, reconfigurable networks to respond to complex and variable task requirements from the market. Another important addition that widens the definition of Cloud Manufacturing comes from the work of Fisher [20] where the authors, after a detailed comparison of Cloud Manufacturing key characteristics and a deep analysis of the future of manufacturing systems, identify Cloud Manufacturing as a route to Sustainable Manufacturing. Finally, Tao [19] clarified the origin of Cloud Manufacturing. While this is a new service-oriented model, Cloud Manufacturing is an evolution from existing advanced manufacturing models presented in the previous paragraphs (such as agile manufacturing, networked manufacturing, manufacturing grid). In other words, other research on this topic exists but presents slightly different viewpoints. Cloud Manufacturing can promote collaborative design techniques by sharing design information. Cloud Manufacturing, if correctly implemented,can also enhance resource sharing, rapid production of prototypes, and reduce costs. Distributed manufacturing can be developed as a result, although resource autonomy and system governance have not been addressed. Cloud Manufacturing can potentially reduce time-to-market, improve service, and enhance user experience, which advantageously impacts customer co-creation area [21]. While Adamson et al. [22] outlined that Cloud Manufacturing is not always a feasible solution for enterprises, mainly due to lack of competencies for its implementation, Wu et al. [23] identified the key economic benefits required for a comparative study that supports organizations in determining when traditional in-house design and manufacturing versus CBDM is most appropriate. The study explored key factors of a cost-benefit analysis through a cost breakdown and a price comparison with cloud computing pricing plans on different levels (e.g., IaaS, Paas, SaaS). Wu et al. [21], in another study, showed three sectors that could be affected by cloud manufacturing on long and short terms: (i) the engineering and design sector; (ii) the manufacturing sector; and (iii) the marketing and service sector. Explicitly, In the short term, Cloud Manufacturing can offer ubiquitous access to design information, improve efficiency, adequate computing resources for the engineering and design sector, thus producing a collaborative design approach in the long term.\\
+In the manufacturing sector, the Cloud Manufacturing environment can potentially improve resource sharing, rapid prototyping, and reduction in costs, hence improving distributed manufacturing in the long term. As for the marketing and service sector, time to market can be reduced, service quality can be improved, and customer needs elicitation can potentially be enhanced. Consequently, cloud manufacturing can possibly provide a customer co-creation environment[24].\\
+Throughout these insights, cloud manufacturing would thus play a significant role in the development and execution of product lifecycle processes, as in cloud manufacturing; product life cycle activities and functions can be supported by virtualized manufacturing resources and the manufacturing capabilities layer allocated within the cloud manufacturing system. Thus, this can allow more users to access these services, delegating the manufacturing enterprises (service provider) to carry out all activities (processes) involved in the entire life cycle of the product and to focus only on their core business and services [19].
+
+\section{Cloud Manufacturing Architectures}
+The architecture of Cloud Manufacturing is the system design planning for Cloud Manufacturing implementation and the basis for the development and application of a Cloud Manufacturing actual system; the supporting technologies of Cloud Manufacturing are the foundation for realizing the Cloud Manufacturing architectures and supporting the completion of Cloud Manufacturing business; the phased application status analysis of the Cloud Manufacturing is the reference for finding the problems and deficiencies in the development of Cloud Manufacturing. Therefore, an effective exploration of the current research status in terms of architecture, supporting technologies, application status of Cloud Manufacturing plays a vital role in the innovation of its theory, technology, and application development [25]. Various models are used to describe the architecture of a Cloud Manufacturing platform. The most commonly used is based on a multi- layered architecture with a modular approach from He and Xu [26], where each layer presents a specific role that accomplishes the required functions. In this paragraph, a variety of Cloud Manufacturing architectures are depicted to embrace the similarities and contrast between them and further to be a baseline for the development of this research.\\
+Ding [27] proposed a layered framework of collaborative manufacturing resources shared based on cloud services. The study designs an architecture with three main layers: (i) Cloud service demand layer; (ii) Cloud service center; (iii) Cloud service provider layer. Each layer is composed of more specific sub-layers. The cloud service demand layer is based on the Cloud user interface. Layer (i) is connected to layer (ii) through an application interface. Layer (ii) provides a variety of core services and function and is divided into two sub-layers: (a) Cloud service management, responsible for user management, task management (publication, aggregation, scheduling), service search; (b) Cloud service integration, provides integration and semantic interoperability of a wide range of manufacturing resources through a global and a local service integration model. A Cloud access interface is a gateway that allows multiple manufacturing resources from the Cloud service provider layer (iii) to work with the layer (ii).
+
