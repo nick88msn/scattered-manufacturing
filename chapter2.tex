@@ -106,3 +106,88 @@ Throughout these insights, cloud manufacturing would thus play a significant rol
 The architecture of Cloud Manufacturing is the system design planning for Cloud Manufacturing implementation and the basis for the development and application of a Cloud Manufacturing actual system; the supporting technologies of Cloud Manufacturing are the foundation for realizing the Cloud Manufacturing architectures and supporting the completion of Cloud Manufacturing business; the phased application status analysis of the Cloud Manufacturing is the reference for finding the problems and deficiencies in the development of Cloud Manufacturing. Therefore, an effective exploration of the current research status in terms of architecture, supporting technologies, application status of Cloud Manufacturing plays a vital role in the innovation of its theory, technology, and application development [25]. Various models are used to describe the architecture of a Cloud Manufacturing platform. The most commonly used is based on a multi- layered architecture with a modular approach from He and Xu [26], where each layer presents a specific role that accomplishes the required functions. In this paragraph, a variety of Cloud Manufacturing architectures are depicted to embrace the similarities and contrast between them and further to be a baseline for the development of this research.\\
 Ding [27] proposed a layered framework of collaborative manufacturing resources shared based on cloud services. The study designs an architecture with three main layers: (i) Cloud service demand layer; (ii) Cloud service center; (iii) Cloud service provider layer. Each layer is composed of more specific sub-layers. The cloud service demand layer is based on the Cloud user interface. Layer (i) is connected to layer (ii) through an application interface. Layer (ii) provides a variety of core services and function and is divided into two sub-layers: (a) Cloud service management, responsible for user management, task management (publication, aggregation, scheduling), service search; (b) Cloud service integration, provides integration and semantic interoperability of a wide range of manufacturing resources through a global and a local service integration model. A Cloud access interface is a gateway that allows multiple manufacturing resources from the Cloud service provider layer (iii) to work with the layer (ii).
 
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/ding-three-layer-architecture}
+    \caption{Ding [27] three-layer architecture for CMfg}
+    \label{fig:ding-3-layer-architecture}
+\end{figure}
+
+Moreover, Jiang [28] introduced a five-layered structure based on collaborative agents (CAgents) with the following layers: (a) basement layer (b)access layer (c)functional layer (d)portal layer (e) application layer. The functional layer is responsible for controlling and coordinating the various service transactions within the cloud manufacturing system.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/jiang-cloud-mfg}
+    \caption{Jiang [28] cloud manufacturing integrated service platform based on CAgent}
+    \label{fig:jiang-architecture}
+\end{figure}
+
+Wang [29] expands the role of the Master Cloud Agent within the smart cloud manager layer to analyze, optimize and control the Cloud Manufacturing service interactions between the user layer and the manufacturing capability.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/wang-integrated-mfg-services}
+    \caption{Wang [29] - The integrated manufacturing service mode based on cloud agents}
+    \label{fig:ding-3-layer-architecture}
+\end{figure}
+
+Lv [30] proposed another typical four-layered hierarchy architecture. This architecture offers a more detailed mapping of resource entities into cloud services from physical resource layer to virtual resource layer, which highlights the core idea of an open cloud service architecture. The architecture is based on a multi-view model that integrates different views (function view, resource view, information view, and process view), with each view depicting a different aspect of the platform.
+
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/lv-cmfg-architecture}
+    \caption{Lv [30] Cloud Manufacturing Architecture}
+    \label{fig:lv-cmfg-architecture}
+\end{figure}
+
+The function view lists the various tasks that a system can perform and comprises interlinked activities. The resource view enumerates the resources required to perform activities. The information view focuses on the required data for the activities, and the process view captures the sequence of the activities.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/lv-cmfg-function-tree}
+    \caption{Lv [30] Cloud Manufacturing System function tree}
+    \label{fig:lv-cmfg-function-tree}
+\end{figure}
+
+
+Moreover, a novel approach that is not mainly focused on technical aspects of the Cloud Manufacturing system comes from Škulj [31] that proposed a decentralized perspective for a cloud manufacturing architecture (CMdna) shown in Figure 8. One of the main contributions of this work derives from the introduction of the concept of a cloud manager component (layer) with the aim of creating a flexible connection between cloud service providers and service users through the utilization of autonomous work systems (AWS) that acts as numerous manufacturing clouds which vary depending on the requirements of both service users and service providers. Such an architecture would allow several clouds to bid for each stage of the required work to make the process as cheap as possible for the end-user.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/skulj-cmdna}
+    \caption{Škulj [31] - Decentralized Cloud Manufacturing Network}
+    \label{fig:skulj-cmdna}
+\end{figure}
+
+Based on the proposed architectures and considering the similarities of the models presented in the literature, a novel architecture is proposed on Chapter III to overcome issues not tackled by the typical configuration of the cloud manufacturing systems as depicted on Chapter II Section 5.
+
+/section{Cloud Manufacturing Service Managemen}
+Services Management within Cloud Manufacturing is considered a critical issue. Indeed, an important goal of Cloud Manufacturing is to provide users with on-demand services for the manufacturing resources and capabilities they need. After these distributed and heterogeneous resources are virtualized, modelled, and transformed into services on the cloud, there is a solid need to effectively manage and coordinate these services in a centralized way to ensure the service performance, quality, security, and successful operation of manufacturing clouds [26]. Resources can interact into a public cloud or a private cloud based on the difference in service object [11]. In order to ensure service performance of Cloud Manufacturing, various methods have been proposed. Wang [1] developed a system based on an ontology of virtualized manufacturing resources. Liu [33] proposed three multi-agent systems architectures for different enterprise sizes. The three architecture are the following and mainly diversified by the role of the Master Agent:
+\begin{itemize}
+    \item (a) the Facilitator Architecture: The facilitator is a special agent responsible for coordinating the communication among the agents. The facilitator provides a reliable communication layer, routes messages among agents based on the contents of the messages, and coordinates the control of the multi-agent activities. All the agents in a facilitator-centric architecture communicate with each other via the facilitator. As a result, the robustness of this architecture can be poor, and the overhead is relatively high.
+    \item (b) The Mediator Architecture: As the facilitator, the mediator is a special agent with more functions than the facilitator. Besides coordinating the communication among the agents and the control of the multi-agent activities, the mediator is able to search for relevant agents according to the agents’ requirements and assist in setting up communication among them. All the agents in a mediator-centric architecture communicate with each other through the mediator. However, the agents can also communicate with each other after the communication has been set up (indicated as dotted lines). In contrast to the facilitator-centric architecture, the overhead of the mediator-centric Multi-Agent System is reduced.
+    \item (c) The Autonomous Agent Architecture: As the facilitator, the mediator is a special agent with more functions than the facilitator. Besides coordinating the communication among the agents and the control of the multi-agent activities, the mediator is able to search for relevant agents according to the agents’ requirements and assist in setting up communication among them. All the agents in a mediator-centric architecture communicate with each other through the mediator. However, these agents can also communicate with each other after the communication has been set up (indicated as dotted lines). In contrast to the facilitator-centric architecture, the overhead of the mediator- centric MAS is reduced.
+\end{itemize}
+
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[height=4cm, keepaspectratio]{images/liu-mas-architecture}
+    \caption{MAS Architecture proposed by Liu [33]}
+    \label{fig:liu-mas-architecture}
+\end{figure}
+
+Several studies have examined service quality and composition in a Cloud Manufacturing platform. Lin [34] introduced an Ontology inference cloud service (OICS). An OICS is a knowledge-based cloud manufacturing system and is used to recommend machine tools and cutting tools based on the Ontology inference techniques for cloud services. The OICS comprises three core functional modules: The Ontology inference module, the VMT (Virtual Machine Tool) module, and the request filtering module. Modules are developed to allow multiple users to perform inference service and verify the recommended machine tools or cutting tools via VMT simulations. The proposed system provides the optimal number of machine tools for the acquired system based on the designed ontology data of the system and thus aims to improve the quality of the cloud manufacturing services.\\
+Finally, Lu proposed a knowledge-based service composition and adaptive resource planning model in a cloud manufacturing environment in order to develop an integrated networked environment enabling the optimal allocation of resources based on given criteria. The model is deployed as a web service and is based on three critical stages: (a) collaborative business process modelling and verification of cloud workflow; (b) model instantiation with modelling and clustering of manufacturing services; (c) model execution, with the optimal matching of manufacturing service supplies and requirements.
+
+\section{Research Gap Analysis}
+Cloud Manufacturing can potentially present a strong impact on manufacturing systems. However, further investigation is still required to identify the communication and interaction protocols of the cooperative systems that enable the integration of service providers and service users. The most important gap identified by the author, however, is not in the constituent parts of the cloud (as many cyber physically enabled smart manufacturing components already exist), the protocols (as plenty of excellent work has been done in this area already), or the integration (as the researchers have proposed several approaches likely to succeed). Architecture designs that are presented in literature reflect the cognition and expectation of different researchers. While most architectures found in the literature are characterized by functional views and resource-based views, articulated in a multi-layer structure, almost none presents a process and organizational view. While most architectures assume direct access and control of the scattered physical resources, only Škulj [31] proposes an architecture based on Autonomous Work Systems. Finally, while Cloud Manufacturing works presents multiple efforts on service optimization, almost none deals with the negotiation of service allocation with service providers. Services created by aggregating autonomous service providers represent a step forward in an architecture that fits actual enterprise characteristics (especially Small and Medium Enterprises) and better applicability in real-world cases.\\
+The author believes that the main research gap in Cloud Manufacturing architectures is in the characteristics of Service Providers. The presence of autonomous and platform-independent manufacturing resources brings numerous issues derived from a distributed governance. Additionally, the literature shows that other gaps in Cloud Manufacturing research are present. Other research gaps identified include:
+\begin{enumerate}
+    \item A lack of research directed towards the platform implementation: most scholars have concentrated only on Cloud Manufacturing architecture and its enabling technologies: there is a need to examine Cloud Manufacturing with real case studies to demonstrate the usability and successful implementation in a real-life context.
+    \item A lack of research work from the managerial point of view in cloud manufacturing: there are many studies regarding the technical issues around Cloud Manufacturing in the literature. These studies have typically overlooked how to manage cloud manufacturing from a management point of view. Issues that need to be addressed include stakeholders’ interactions and their activities, the cloud’s standards, services management, utility models, servitization technologies, and the role of clear and shared founding principles in a Cloud Manufacturing platform.
+    \item A lack of research regarding how to manage negotiation in cloud manufacturing: the literature reveals that there is not yet an understanding of negotiation mechanisms for cloud manufacturing. There is a need to identify, assess, and control interactions among service demanders and service providers inside the network.
+\end{enumerate}
+
+Therefore, this research proposes an architecture of a distributed Cloud Manufacturing network comprised of autonomous service providers to manage operations and coordinate communications among manufacturing nodes and service providers. The aim is to offer new insights for industry and academia on how to deal with autonomous service providers at the adoption and implementation stages of the platform.
