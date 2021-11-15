@@ -1,0 +1,90 @@
+\chapter{Implementing Models and Algorithms for a Distributed Cloud Manufacturing Network based on autonomous resources}
+\section{Introduction}
+This chapter outlines the implementation process of core functionalities in the Scattered Manufacturing framework, known as Scattered Manufacturing, by means of demonstrating the flow of the activities through a complete operations cycle. The first paragraph focuses on the implementation of a Multi-Agent System architecture for managing distributed operations. The second paragraph proposes an implementation of a scheduling and logistics optimization algorithm for a large Additive Manufacturing network.
+\section{A Multi-Agent System architecture for managing distributed operations}
+\subsection{Introduction}
+The new generation of information technology dealing with cloud applications, big data, IoT has led to significant changes in manufacturing. The cloud application service provided manufacturers with cloud-based software and collaboration by moving the processing and management of manufacturing information in the cloud and creating the phenomenon of Cloud Manufacturing [9][18]. Xu [3] defines Cloud Manufacturing as “a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable manufacturing resources (e.g., manufacturing software tools, manufacturing equipment, and manufacturing capabilities) that can be rapidly provisioned and released with minimal management effort or service provider interaction”.\\
+Cloud Manufacturing aims at sharing and distributing in a collaborative manner large-scale manufacturing resources [45]. This is possible through a cloud manufacturing platform, which integrates distributed manufacturing resources, transforms them into manufacturing services, and manages them centrally [46] [3]. Cloud Manufacturing can handle multiple users’ service requests, dealing with multiple manufacturing tasks (manufacturing lot) in parallel. Cloud Manufacturing can manage many distributed and idle manufacturing resources, providing a sustainable, cleaner production [47]. Anyway, there is no single standard for a Cloud Manufacturing implementation: there are several different Cloud Manufacturing architectures (e.g., see [9][45][48]). The shared resources in Cloud Manufacturing include the computing resource in cloud computing and other manufacturing resources. Such resources include hard manufacturing resources (e.g., machine tools), soft manufacturing resources (e.g., models and a massive amount of data), and manufacturing capabilities (design, production, and test capabilities). The on-demand supply method in cloud computing cannot be directly applied to cloud manufacturing because of some characteristics of manufacturing resources, such as heterogeneity, diversity, and dispersity, which cloud computing does not possess[26]. Hence, global scheduling is not always available [9]. In [10], a 3D printing service (3DPS) scheduling method in the context of Cloud Manufacturing is proposed to generate optimal service scheduling solutions; the method is based on a genetic algorithm. It is clear that one needs to select a suitable service because there may be multiple candidate services for a task. In [10], four attributes of the 3DPS, including size, material, accuracy, and cost, as the service matching rules, were considered in the scheduling problem. Anyway, in [10], the dynamic task arrival and downtime of 3D printers were not considered. Besides, the author did not consider anomalous tasks.
+In this section, the design of a Multi-Agent System for managing and monitoring 3DPS is proposed, addressing the issues above. Multi-Agent systems [49] represent a technology allowing modularity, flexibility, robustness, and adaptivity in complex systems, and they have been applied in many domains to solve complex problems [50][51][52]. Especially in industrial environments, where some requirements are needed depending on the application scenarios, the design is the first key factor to develop a suitable MAS [53].\\
+In the following paragraphs, a Multi-Agent System scheme is proposed by analyzing it at the design stage. The analysis is supported by simulating some nodes through a small hardware system to check on communication issues.
+\subsection{Problem Formalization}
+In this paragraph, we briefly describe the problem and its context. Herein, we consider the Scattered Manufacturing Network [54], an adaptation of a Cloud Manufacturing network architecture described in the previous chapter. In a Scattered Manufacturing network, nodes are autonomous entities able to instance job orders or offer manufacturing services coordinated by an Orchestrator. The Orchestrator is responsible for the negotiation among nodes, ensuring the respect of network policy, and the overall optimization in the Supply Network. Scattered Manufacturing network policy obeys three main principles: sustainability, equally shared resources among nodes, and transparency.\\
+Sustainability occurs in cost-effective manufacturing, reducing resource demands and related CO2 emissions over the entire product life cycle, transferring the production closer to the end-user. The Scattered Manufacturing network aims to create a collaborative, transparent, open,, and trusting environment with shared purposes and shared resources[54]. Cloud Manufacturing requires the interaction between three groups: the users, application providers, and physical resource providers [17]. In a Scattered Manufacturing network, actors are grouped and labeled as: Demanding nodes, Orchestrator, Manufacturing nodes. The Orchestrator coordinates resources and workloads matching orders from demanding nodes and local manufacturing available capacity.\\
+At the first stage, demanding nodes submit their job orders with the required accuracies and admissible quantities, and cost ranges. The platform then localizes the order to define a subset of candidate manufacturing nodes. Potential resource providers are then filtered, considering technical constraints derived from job requirements.\\
+Each service demanders have distinctive priorities in the optimization objective function [55]. A weight coefficient represents a priority ri according to the demander’s latest product delivery time. Then we have a minimization problem, which is formulated as follows:\\
+
+\begin{equation}
+    \label{eq:1}
+    \min{\frac{\sum _i r_i F_i}{\sum _i r_i}}
+\end{equation}
+
+where Fi is the product delivery time of a specific service demander Di, and it takes into account the start time of the task, the printing time, and logistics time.\\
+The constraints are mostly inequality constraints, such as:
+\begin{itemize}
+    \item model size, that is the maximum admissible size of the selected \emph{kth} service $S_k$ must not be smaller than the size of the 3DP model of task $t_i$ 
+    \begin{equation}
+        \label{eq:2}
+        \min\left(u_i,v_i\right)\leq\min\left(U_k, V_k\right)
+    \end{equation}
+    \begin{equation}
+        \label{eq:3}
+        \max\left(u_i,v_i\right)\leq\max\left(U_k, V_k\right)
+    \end{equation}
+    \begin{equation}
+        \label{eq:4}
+        w_i \leq W_k
+    \end{equation}
+\end{itemize}
+where $u_i$, $v_i$, $w_i$ are the length, width, height of the 3D model associated with the task $t_i$, respectively, $U_k$, $V_k$, $W_k$ are the maximum length, the maximum width, the maximum height of machine working area selected for $S_k$ respectively:
+\begin{itemize}
+    \item printing accuracy: the accuracy $A_k$ of the selected 3DP service $S_k$ should be smaller than the printing accuracy $a_i$ of task $t_i$ \begin{equation}\label{eq:5}A_k \leq a_i \end{equation}
+    \item the cost: the acceptable maximum cost $c_i$ of task $t_i$ should be not higher than the practical task completion cost $C_k$ with regard to the selected service $S_k$ \begin{equation}\label{eq:6}c_i \leq C_k \end{equation}
+\end{itemize}
+
+and an equality constraint, that is:
+\begin{itemize}
+    \item printing materials: since the printing material type $M_k$ of the selected 3DP service $S_k$ must be the same as the printing material type of $i_th$ task $m_i$ \begin{equation}\label{eq:6}m_i = M_k \end{equation}
+\end{itemize}
+The optimization problem can be solved using a genetic algorithm (GA) [55]. It is the case to point out that, after the localization and filtering stage, the Orchestrator needs to fragment the order into a finite number of tasks that will be assigned to the resource providers. The assignment phase requires negotiations and optimization steps to obtain an optimal solution. Further details about this topic, as well as numerical approaches, are discussed in
+the following paragraphs and have been detailed in [54] and [56].
+In order to tackle some issues such as dynamic task arrival and downtime of 3D printers, as well as anomalous tasks, in the next paragraph, a Multi- Agent System scheme handling the optimization problem in a more general way is introduced.
+\subsection{The proposed Multi Agent System architecture}
+A Multi-Agent System is a system composed of interacting intelligent agents that are autonomous entities that can act and communicate with each other in a certain context, depending on the environment state [49].\\
+For each agent a finite set A of actions are possible: \begin{equation} \label{eq:7} A = \left\{A_1,A_2,...,A_n\right\}\end{equation}
+Through actions, each agent interacts with the environment. As a consequence, the environment assumes a finite number of possible states: \begin{equation} \label{eq:8} X = \left\{X_1, X_2, ...\right\} \end{equation}
+In the proposed model, the objects of monitoring are tasks, printers, scheduling, and the system's fitness. We consider a multi-agent system (MAS) model, with three types of agents: Task Agent (TA), Master Agent (MA), and Printer Agent (PA).\\
+The task agent (TA) collects and processes tasks, then organizes them according to the user requirements and provider policy. The TA handles batches of n tasks as follows:
+\begin{multline}
+    \label{eq:9}
+    B=\{t_1,...,t_n,r_1,...,r_n,w_1,...,w_n,o_1,...o_n,a_1,...,a_n,m_1,...,m_n,\\ 
+        h_1,...,h_n,c_1,...,c_n,d_1,...,d_n,\mu,\sigma\}
+\end{multline}
+where:
+\begin{itemize}
+    \item $t_i$, with i=1,...,n, are the tasks
+    \item $r_i$, with i=1,...,n, the priority of the ith task
+    \item $w_i$, with i=1,...,n, is the workload for the ith task
+    \item $o_i$, with i=1,...,n, is the 3DP output size for the ith task
+    \item $a_i$, with i=1,...,n, is the required accuracy for the ith task
+    \item $m_i$, with i=1,...,n, is the demanded material for the ith task
+    \item $h_i$, with i=1,...,n, hashes of tasks
+    \item $c_i$, with i=1,...,n, the acceptable maximum cost for each task given the service demander
+    \item $d_i$, with i=1,...,n, delivery location of ith task
+    \item $\mu$ mean workload of all scheduled batches
+    \item $\sigma$ standard deviation of workload for each scheduled batch
+\end{itemize}
+
+The mean $\mu$ and standard deviation $\sigma$  of the workloads are computed to compare the current workload to the ones of past tasks. This evaluation process allows checking if the workload of a task is below a certain threshold as follows:
+\begin{equation}
+    \label{eq:10}
+    |w_i - \mu| < \alpha * \sigma
+\end{equation}
+where $\alpha$ is a tuning parameter to be determined.
+If the workload is over the threshold, tasks return to the service demander. This phase allows realizing a sort of global optimization to ensure a certain balance in the global network of printers to not overload a node or assign only small works to a given node.\\
+The TA is also responsible for monitoring tasks by checking task features such as task size and task integrity to perform a local optimization. It is equipped with a classifier, e.g., an Artificial Neural Network (ANN) or a Functional Network [57] [58] (in case only small datasets are available for the learning), to detect anomalously (not fitting to usual demand) tasks. Indeed, an anomalous task is a task that presents a set of features (e.g., quantity, accuracy, sizes) that have never been seen before. For this anomalous task, the classifier present in the TA agent will label the task as false. This false task will not be immediately rejected but sent back for human confirmation by an operator. As usual, the classifier works in two stages: an offline stage, which is the stage where the ANN learns the tasks from certain users; an online stage, where the training dataset is updated by adding new cases.\\
+The training dataset contains a triplet of input attributes for the ith task, that is, workload $w_i$, output size $o_i$, required accuracy $a_i$, and a single desired output, which is a binary value, that is 0 or 1, representing the false or true task. During the online stage, each task detected as “false” is sent back to the user for additional confirmation. If the user confirms the task as a “true task”, then it is added a new sampling pattern to the dataset.\\
+Printer agents (PAs) monitor if a particular printer is under or overloaded. A PA records the downtime of the printer. Then, if the idle time is below a given threshold $\tau_0$ it communicates to the master agent (MA) that the printer is overloaded and it needs less work to operate; if the idle time is above a threshold $\tau_v$, then it communicates that it is underloaded and, in this case, the PA communicates its own cost for the task.\\
+PAs are also in charge of checking task integrity before the execution. The task body is hashed, and this hash is then compared with the hash provided by MA. If the hashes are the same, the task is processed. If not, it means that the task was modified and in such a case the task is uploaded from MA again.\\
+A master agent checks all basic system characteristics: it is responsible for generating times of starting task scheduling, as well as monitoring and supporting the genetic process of scheduling. When the schedule is ready, tasks are disposed to the printer units to be executed. During task execution, MA gathers the information from PA. Then it decides if the workload should be increased or decreased to obtain optimal printer utilization. This is measured by the assumed fitness function of the system. The fitness of the system depends on the printers’ utilization. They may be idle or overloaded. If many printers are idle, then MA makes a decision about scheduling forcing, and dispatching a new portion of tasks. The decision is made on the basis of a social behavior model involving the PAs. We adopt a hybrid voting scheme.\\
+If more than a threshold $p$ of the PAs is reporting that less work is required, the batches are sent q\% less frequently. If more than p of the PAs are reporting that more work is required and the total cost associated with such PAs is not higher than $c$, the batches are sent q\% more frequently. The parameters $p$ and $c$ are set in a proper way.
+The actions of the agents may be described in pseudocode in what follows. The signature of each algorithm indicates the agent's name (e.g., TA: meansTask Agent:); followed by the name of the action with its parameters. Different agents may execute the same action but with different behavior. The basic behavior that emerges by the cooperation between the agents is the following: 1) the Task Agent (TA) checks the data received by the service demander (Listing 1). This input data represents the batch B of n tasks in equation \ref{eq:9}. If the information is correct, it sends the request to the Master Agent (MA) (Listing 2). The MA receives this batch B and asks for information to a set of PA regarding $\tau_0$ and $\tau_v$. Once received this information (PA sends the information using the action in Listing 4), MA starts the scheduling. The scheduling consists of creating a set of work queue $Q_j$, each containing a subset of the tasks of batch $B$, and assigning this queue to one of the PA. Therefore, using the scheduling results, MA will send a work queue $Q_j$, together with the hashes $H_j$ of those tasks, to one of the identified $PA_j$ (Listing 3) until all the tasks are assigned. In case one of the PA finds an anomaly or an error, it sends the task back to the MA (Listing 5). In this case, the MA proposes a new scheduling plan (Listing 6).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  14 NOV 2021 09:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  15 NOV 2021 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -187,38 +187,100 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen143
 \Gin@req@width=\dimen144
 )
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen145
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip17
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks19
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks20
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
-\l__pdf_internal_box=\box47
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box49
 )
 (./document.aux (./frontespizio.aux) (./abstract.aux) (./publications.aux)
 (./introduction.aux) (./chapter1.aux) (./chapter2.aux
 
 LaTeX Warning: Label `fig:ding-3-layer-architecture' multiply defined.
 
+) (./chapter3.aux) (./chapter4.aux
+
+LaTeX Warning: Label `eq:6' multiply defined.
+
 ))
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-Package hyperref Info: Link coloring OFF on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package hyperref Info: Link coloring OFF on input line 12.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -229,11 +291,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count199
+\c@section@level=\count277
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
  (./document.out) (./document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
@@ -241,17 +303,17 @@ LaTeX Info: Redefining \nameref on input line 11.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count266
-\scratchdimen=\dimen145
-\scratchbox=\box48
-\nofMPsegments=\count267
-\nofMParguments=\count268
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count269
-\MPscratchDim=\dimen146
-\MPnumerator=\count270
-\makeMPintoPDFobject=\count271
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count278
+\scratchdimen=\dimen154
+\scratchbox=\box50
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen155
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -265,15 +327,11 @@ e
 
 
 (./frontespizio.tex
-<images/logo_unisa.png, id=56, 119.44624pt x 119.44624pt>
+<images/logo_unisa.png, id=128, 119.44624pt x 119.44624pt>
 File: images/logo_unisa.png Graphic file (type png)
 <use images/logo_unisa.png>
 Package pdftex.def Info: images/logo_unisa.png  used on input line 7.
 (pdftex.def)             Requested size: 113.81046pt x 113.81102pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
 ) [1
 
 
@@ -287,56 +345,61 @@ s/logo_unisa.png>]
 
 
 ] [3]
-(./document.toc)
+(./document.toc
+Overfull \hbox (5.62598pt too wide) in paragraph at lines 15--15
+ \OT1/cmr/bx/n/10 Cloud Man-u-fac-tur-ing Plat-form in pres-ence of au-tonomous
+ nodes[] []  
+ []
+
+[4
+
+
+
+])
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- [4
-
-
-
-] (./document.lof)
+ [5] (./document.lof)
 \tf@lof=\write5
 \openout5 = `document.lof'.
 
- [5
+ [6
 
 ] (./document.lot)
 \tf@lot=\write6
 \openout6 = `document.lot'.
 
- [6
+ [7
 
 ]
 \openout2 = `publications.aux'.
 
-
-(./publications.tex
+ (./publications.tex
 Overfull \hbox (3.95445pt too wide) in paragraph at lines 15--16
 \OT1/cmr/m/n/10 no. 1 (De-cem-ber 24, 2017): 440{66. []https://doi.org/10.30585
 /icabml-
  []
 
-[7
+[8
 
 
-]) [8]
+]) [9]
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
 Chapter 1.
-[9
+[10
 
 
 
 
-] [10] [11]
-<images/thesis-outline.png, id=179, 300.12125pt x 473.77pt>
+] [11] [12]
+<images/thesis-outline.png, id=292, 300.12125pt x 473.77pt>
 File: images/thesis-outline.png Graphic file (type png)
 <use images/thesis-outline.png>
 Package pdftex.def Info: images/thesis-outline.png  used on input line 30.
 (pdftex.def)             Requested size: 180.24358pt x 284.52756pt.
-) [12 <./images/thesis-outline.png>]
+) [13 <./images/thesis-outline.png>]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
@@ -351,23 +414,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-[13
+[14
 
 
 
 
-] [14]
-<images/research-steps.png, id=203, 232.87pt x 317.185pt>
+] [15]
+<images/research-steps.png, id=317, 232.87pt x 317.185pt>
 File: images/research-steps.png Graphic file (type png)
 <use images/research-steps.png>
 Package pdftex.def Info: images/research-steps.png  used on input line 42.
 (pdftex.def)             Requested size: 167.11905pt x 227.62204pt.
- [15 <./images/research-steps.png>]) [16]
+ [16 <./images/research-steps.png>]) [17]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 Chapter 3.
-[17
+[18
 
 
 
@@ -407,11 +470,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 42--43
 \OT1/cmr/m/n/10 search and the re-search
  []
 
-[18] [19]
-Chapter 4.
-[20
-
-]
+[19] [20]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []\OT1/cmr/bx/n/10 Flexible
  []
@@ -527,25 +586,29 @@ Underfull \hbox (badness 4001) in paragraph at lines 78--79
  []
 
 [21] [22] [23]
-<images/ding-three-layer-architecture.png, id=255, 313.17pt x 407.5225pt>
+<images/ding-three-layer-architecture.png, id=365, 313.17pt x 407.5225pt>
 File: images/ding-three-layer-architecture.png Graphic file (type png)
 <use images/ding-three-layer-architecture.png>
 Package pdftex.def Info: images/ding-three-layer-architecture.png  used on inpu
 t line 111.
 (pdftex.def)             Requested size: 87.45763pt x 113.81102pt.
- [24 <./images/ding-three-layer-architecture.png>]
-<images/jiang-cloud-mfg.png, id=261, 398.48875pt x 332.24126pt>
+<images/jiang-cloud-mfg.png, id=366, 398.48875pt x 332.24126pt>
 File: images/jiang-cloud-mfg.png Graphic file (type png)
 <use images/jiang-cloud-mfg.png>
 Package pdftex.def Info: images/jiang-cloud-mfg.png  used on input line 120.
 (pdftex.def)             Requested size: 136.50589pt x 113.81102pt.
-<images/wang-integrated-mfg-services.png, id=262, 226.8475pt x 221.82875pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/wang-integrated-mfg-services.png, id=367, 226.8475pt x 221.82875pt>
 File: images/wang-integrated-mfg-services.png Graphic file (type png)
 <use images/wang-integrated-mfg-services.png>
 Package pdftex.def Info: images/wang-integrated-mfg-services.png  used on input
  line 129.
 (pdftex.def)             Requested size: 116.38297pt x 113.81102pt.
-<images/lv-cmfg-architecture.png, id=263, 398.48875pt x 287.0725pt>
+[24 <./images/ding-three-layer-architecture.png>]
+<images/lv-cmfg-architecture.png, id=373, 398.48875pt x 287.0725pt>
 File: images/lv-cmfg-architecture.png Graphic file (type png)
 <use images/lv-cmfg-architecture.png>
 Package pdftex.def Info: images/lv-cmfg-architecture.png  used on input line 13
@@ -555,14 +618,17 @@ Package pdftex.def Info: images/lv-cmfg-architecture.png  used on input line 13
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./images/jiang-cloud-mfg.png> <./images/wang-integrated-mfg-services.png>]
-<images/lv-cmfg-function-tree.png, id=272, 398.48875pt x 134.5025pt>
+<images/lv-cmfg-function-tree.png, id=374, 398.48875pt x 134.5025pt>
 File: images/lv-cmfg-function-tree.png Graphic file (type png)
 <use images/lv-cmfg-function-tree.png>
 Package pdftex.def Info: images/lv-cmfg-function-tree.png  used on input line 1
 48.
 (pdftex.def)             Requested size: 337.19084pt x 113.81102pt.
-<images/skulj-cmdna.png, id=273, 244.915pt x 167.62625pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./images/jiang-cloud-mfg.png> <./images/wang-integrated-mfg-services.png>]
+<images/skulj-cmdna.png, id=382, 244.915pt x 167.62625pt>
 File: images/skulj-cmdna.png Graphic file (type png)
 <use images/skulj-cmdna.png>
 Package pdftex.def Info: images/skulj-cmdna.png  used on input line 158.
@@ -577,46 +643,341 @@ s Man-age-ment within
  []
 
 [26 <./images/lv-cmfg-architecture.png> <./images/lv-cmfg-function-tree.png>]
-[27 <./images/skulj-cmdna.png>]
-<images/liu-mas-architecture.png, id=285, 357.335pt x 125.46875pt>
+<images/liu-mas-architecture.png, id=389, 357.335pt x 125.46875pt>
 File: images/liu-mas-architecture.png Graphic file (type png)
 <use images/liu-mas-architecture.png>
 Package pdftex.def Info: images/liu-mas-architecture.png  used on input line 17
 6.
 (pdftex.def)             Requested size: 324.15028pt x 113.81102pt.
- [28 <./images/liu-mas-architecture.png>]
-[29]) [30] (./document.aux (./frontespizio.aux) (./abstract.aux)
-(./publications.aux) (./introduction.aux) (./chapter1.aux) (./chapter2.aux))
+
+[27 <./images/skulj-cmdna.png>] [28 <./images/liu-mas-architecture.png>])
+[29]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 4.
+[30
+
+
+
+
+] [31] [32]
+<images/centralized-cmfg-architecture.png, id=421, 258.7266pt x 226.446pt>
+File: images/centralized-cmfg-architecture.png Graphic file (type png)
+<use images/centralized-cmfg-architecture.png>
+Package pdftex.def Info: images/centralized-cmfg-architecture.png  used on inpu
+t line 30.
+(pdftex.def)             Requested size: 130.03409pt x 113.81102pt.
+<images/decentralized-cmfg-architecture.png, id=422, 220.752pt x 200.7135pt>
+File: images/decentralized-cmfg-architecture.png Graphic file (type png)
+<use images/decentralized-cmfg-architecture.png>
+Package pdftex.def Info: images/decentralized-cmfg-architecture.png  used on in
+put line 38.
+(pdftex.def)             Requested size: 125.1731pt x 113.81102pt.
+ [33 <./images/centralized-cmfg-architecture.png>]
+<images/scattered-mfg-architecture.png, id=428, 215.496pt x 216.81pt>
+File: images/scattered-mfg-architecture.png Graphic file (type png)
+<use images/scattered-mfg-architecture.png>
+Package pdftex.def Info: images/scattered-mfg-architecture.png  used on input l
+ine 48.
+(pdftex.def)             Requested size: 113.12065pt x 113.81102pt.
+ [34 <./images/decentralized-cmfg-architecture.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/10 users (con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 sumers),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 ap-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 i-cal re-source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/10 service
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/10 users, ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]\OT1/cmr/m/n/10 system or-ches-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\OT1/cmr/m/n/10 tra-tor, ser-vice
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 62--63
+\OT1/cmr/m/n/10 man-agers, ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\OT1/cmr/m/n/10 Physical re-
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 64--64
+[]\OT1/cmr/m/n/10 Third-party or
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 64--65
+[]\OT1/cmr/m/n/10 Associated au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/10 Internal or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 Ex-ter-nal
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/10 Resource Man-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/10 centralized
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 70--70
+[]\OT1/cmr/m/n/10 Service Match-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\OT1/cmr/m/n/10 Application
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/10 Direct al-lo-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/10 Asynchronously
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 72--72
+\OT1/cmr/m/n/10 through prop-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10 Negotiation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/cmr/m/n/10 among a ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/cmr/m/n/10 vice man-ager
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 72--73
+\OT1/cmr/m/n/10 and can-di-dates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]\OT1/cmr/m/n/10 Information
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/10 Vertical and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\OT1/cmr/m/n/10 Centralized,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/cmr/m/n/10 de-vel-oped by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/cmr/m/n/10 an ap-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]\OT1/cmr/m/n/10 Developed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\OT1/cmr/m/n/10 by ser-vice
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 76--77
+\OT1/cmr/m/n/10 man-agers co-or-
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 76--77
+\OT1/cmr/m/n/10 di-nated by an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]\OT1/cmr/m/n/10 Optimization
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]\OT1/cmr/m/n/10 Global op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/10 Optimization
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\OT1/cmr/m/n/10 Short and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\OT1/cmr/m/n/10 Global op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/cmr/m/n/10 miza-tion (SO)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/cmr/m/n/10 Short-term
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 80--81
+\OT1/cmr/m/n/10 (SM) Medium-
+ []
+
+[35 <./images/scattered-mfg-architecture.png>] [36]
+<images/platform-building-blocks.png, id=443, 257.763pt x 165.2574pt>
+File: images/platform-building-blocks.png Graphic file (type png)
+<use images/platform-building-blocks.png>
+Package pdftex.def Info: images/platform-building-blocks.png  used on input lin
+e 103.
+(pdftex.def)             Requested size: 177.52234pt x 113.81102pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\OT1/cmr/m/n/10 Service in-stan-ti-a-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 126--127
+\OT1/cmr/m/n/10 Ser-vice Co-or-di-na-tor, re-spon-si-ble for
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 128--128
+[]\OT1/cmr/m/n/10 Real-time schedul-
+ []
+
+[37 <./images/platform-building-blocks.png>] [38] [39]
+<images/operations-mode-smfg.png, id=463, 393.1488pt x 228.3732pt>
+File: images/operations-mode-smfg.png Graphic file (type png)
+<use images/operations-mode-smfg.png>
+Package pdftex.def Info: images/operations-mode-smfg.png  used on input line 14
+8.
+(pdftex.def)             Requested size: 195.93202pt x 113.81102pt.
+
+Overfull \hbox (0.76813pt too wide) in paragraph at lines 153--153
+[]\OT1/cmr/bx/n/12 Platform Co-or-di-na-tion and Ne-go-ti-a-tion Mech-a-nisms 
+ []
+
+) [40 <./images/operations-mode-smfg.png>] [41]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+Chapter 5.
+
+Overfull \hbox (1.28786pt too wide) in paragraph at lines 4--4
+[]\OT1/cmr/bx/n/14.4 A Multi-Agent Sys-tem ar-chi-tec-ture for man-
+ []
+
+[42
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+
+ []
+
+[43] [44] [45]) [46] [47] [48] (./document.aux (./frontespizio.aux)
+(./abstract.aux) (./publications.aux) (./introduction.aux) (./chapter1.aux)
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `document.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `document.out':
-(rerunfilecheck)             Before: 72021FBB6D4C900B1EC3568C8A9C9638;2358
-(rerunfilecheck)             After:  BC0CE01E387269054B76E86B0C9E3C75;2524.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 0F5810930DBDBBDC4813C84766DC8FF0;7130.
  ) 
 Here is how much of TeX's memory you used:
- 8029 strings out of 478994
- 120063 string characters out of 5858185
- 422138 words of memory out of 5000000
- 25280 multiletter control sequences out of 15000+600000
- 406188 words of font info for 36 fonts, out of 8000000 for 9000
+ 8801 strings out of 478994
+ 130222 string characters out of 5858185
+ 437291 words of memory out of 5000000
+ 25955 multiletter control sequences out of 15000+600000
+ 407295 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,10n,74p,3151b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,10n,74p,3151b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on ./document.pdf (30 pages, 892843 bytes).
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on ./document.pdf (48 pages, 1236022 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
- 103 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 600 PDF objects out of 1000 (max. 8388607)
+ 503 compressed objects within 6 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 324 words of extra memory for PDF output out of 10000 (max. 10000000)
 
