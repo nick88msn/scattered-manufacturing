@@ -1,4 +1,6 @@
 *.aux
+*.lof
+*.lot
 *.out
 *.toc
 *.log
