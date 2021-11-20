@@ -1,6 +1,6 @@
 # Scattered Manufacturing
 
-Repository for Nicola Mastrandrea's PhD Thesis.
+Repository for Nicola Mastrandrea's PhD Thesis **(this latex version is still in progress)**.
 
 Current Status: Dissertation Passed on 3rd November 2021 
 
