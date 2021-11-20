@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  15 NOV 2021 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.5)  20 NOV 2021 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -245,12 +245,48 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
-\l__pdf_internal_box=\box49
+(/usr/local/texlive/2021/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks23
+\float@box=\box49
+\@float@everytoks=\toks24
+\@floatcapt=\box50
 )
-(./document.aux (./frontespizio.aux) (./abstract.aux) (./publications.aux)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count277
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count278
+\c@ALG@rem=\count279
+\c@ALG@nested=\count280
+\ALG@tlm=\skip53
+\ALG@thistlm=\skip54
+\c@ALG@Lnr=\count281
+\c@ALG@blocknr=\count282
+\c@ALG@storecount=\count283
+\c@ALG@tmpcounter=\count284
+\ALG@tmplength=\skip55
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box51
+) (./document.aux (./frontespizio.aux) (./abstract.aux) (./publications.aux)
 (./introduction.aux) (./chapter1.aux) (./chapter2.aux
 
 LaTeX Warning: Label `fig:ding-3-layer-architecture' multiply defined.
@@ -259,28 +295,31 @@ LaTeX Warning: Label `fig:ding-3-layer-architecture' multiply defined.
 
 LaTeX Warning: Label `eq:6' multiply defined.
 
+
+LaTeX Warning: Label `tab:reallocation-plan-second-it' multiply defined.
+
 ))
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-Package hyperref Info: Link coloring OFF on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+Package hyperref Info: Link coloring OFF on input line 15.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -291,11 +330,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count286
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (./document.out) (./document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
@@ -303,17 +342,17 @@ LaTeX Info: Redefining \nameref on input line 12.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
+\scratchcounter=\count287
 \scratchdimen=\dimen154
-\scratchbox=\box50
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count281
+\scratchbox=\box52
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count290
 \MPscratchDim=\dimen155
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -327,7 +366,7 @@ e
 
 
 (./frontespizio.tex
-<images/logo_unisa.png, id=128, 119.44624pt x 119.44624pt>
+<images/logo_unisa.png, id=176, 119.44624pt x 119.44624pt>
 File: images/logo_unisa.png Graphic file (type png)
 <use images/logo_unisa.png>
 Package pdftex.def Info: images/logo_unisa.png  used on input line 7.
@@ -359,17 +398,17 @@ Overfull \hbox (5.62598pt too wide) in paragraph at lines 15--15
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- [5] (./document.lof)
+ [5] (./document.lof [6
+
+])
 \tf@lof=\write5
 \openout5 = `document.lof'.
 
- [6
-
-] (./document.lot)
+ [7] (./document.lot)
 \tf@lot=\write6
 \openout6 = `document.lot'.
 
- [7
+ [8
 
 ]
 \openout2 = `publications.aux'.
@@ -380,26 +419,31 @@ Overfull \hbox (3.95445pt too wide) in paragraph at lines 15--16
 /icabml-
  []
 
-[8
+[9
 
 
-]) [9]
+]) [10]
 \openout2 = `introduction.aux'.
 
  (./introduction.tex
 Chapter 1.
-[10
+[11
 
 
 
 
-] [11] [12]
-<images/thesis-outline.png, id=292, 300.12125pt x 473.77pt>
+] [12] [13]
+<images/thesis-outline.png, id=412, 300.12125pt x 473.77pt>
 File: images/thesis-outline.png Graphic file (type png)
 <use images/thesis-outline.png>
 Package pdftex.def Info: images/thesis-outline.png  used on input line 30.
 (pdftex.def)             Requested size: 180.24358pt x 284.52756pt.
-) [13 <./images/thesis-outline.png>]
+) [14pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.26 \include{introduction}
+                            <./images/thesis-outline.png>]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
@@ -414,23 +458,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-[14
+[15
 
 
 
 
-] [15]
-<images/research-steps.png, id=317, 232.87pt x 317.185pt>
+] [16]
+<images/research-steps.png, id=435, 232.87pt x 317.185pt>
 File: images/research-steps.png Graphic file (type png)
 <use images/research-steps.png>
 Package pdftex.def Info: images/research-steps.png  used on input line 42.
 (pdftex.def)             Requested size: 167.11905pt x 227.62204pt.
- [16 <./images/research-steps.png>]) [17]
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.50 \begin{enumerate}
+                       <./images/research-steps.png>]) [18]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 Chapter 3.
-[18
+[19
 
 
 
@@ -470,7 +519,19 @@ Underfull \hbox (badness 1178) in paragraph at lines 42--43
 \OT1/cmr/m/n/10 search and the re-search
  []
 
-[19] [20]
+[20pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.55     \item I
+                dentify Cloud Manufacturing key architectural factors.pdfTeX wa
+rning (ext4): destination with the same identifier (name{table.3.2}) has been a
+lready used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.55     \item I
+                dentify Cloud Manufacturing key architectural factors.]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []\OT1/cmr/bx/n/10 Flexible
  []
@@ -585,14 +646,19 @@ Underfull \hbox (badness 4001) in paragraph at lines 78--79
 []\OT1/cmr/m/n/10 Companies in al-
  []
 
-[21] [22] [23]
-<images/ding-three-layer-architecture.png, id=365, 313.17pt x 407.5225pt>
+[22pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.94 \begin{itemize}
+                    ] [23] [24]
+<images/ding-three-layer-architecture.png, id=484, 313.17pt x 407.5225pt>
 File: images/ding-three-layer-architecture.png Graphic file (type png)
 <use images/ding-three-layer-architecture.png>
 Package pdftex.def Info: images/ding-three-layer-architecture.png  used on inpu
 t line 111.
 (pdftex.def)             Requested size: 87.45763pt x 113.81102pt.
-<images/jiang-cloud-mfg.png, id=366, 398.48875pt x 332.24126pt>
+<images/jiang-cloud-mfg.png, id=485, 398.48875pt x 332.24126pt>
 File: images/jiang-cloud-mfg.png Graphic file (type png)
 <use images/jiang-cloud-mfg.png>
 Package pdftex.def Info: images/jiang-cloud-mfg.png  used on input line 120.
@@ -601,14 +667,19 @@ Package pdftex.def Info: images/jiang-cloud-mfg.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/wang-integrated-mfg-services.png, id=367, 226.8475pt x 221.82875pt>
+<images/wang-integrated-mfg-services.png, id=486, 226.8475pt x 221.82875pt>
 File: images/wang-integrated-mfg-services.png Graphic file (type png)
 <use images/wang-integrated-mfg-services.png>
 Package pdftex.def Info: images/wang-integrated-mfg-services.png  used on input
  line 129.
 (pdftex.def)             Requested size: 116.38297pt x 113.81102pt.
-[24 <./images/ding-three-layer-architecture.png>]
-<images/lv-cmfg-architecture.png, id=373, 398.48875pt x 287.0725pt>
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.132 \end{figure}
+                   <./images/ding-three-layer-architecture.png>]
+<images/lv-cmfg-architecture.png, id=493, 398.48875pt x 287.0725pt>
 File: images/lv-cmfg-architecture.png Graphic file (type png)
 <use images/lv-cmfg-architecture.png>
 Package pdftex.def Info: images/lv-cmfg-architecture.png  used on input line 13
@@ -618,7 +689,7 @@ Package pdftex.def Info: images/lv-cmfg-architecture.png  used on input line 13
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/lv-cmfg-function-tree.png, id=374, 398.48875pt x 134.5025pt>
+<images/lv-cmfg-function-tree.png, id=494, 398.48875pt x 134.5025pt>
 File: images/lv-cmfg-function-tree.png Graphic file (type png)
 <use images/lv-cmfg-function-tree.png>
 Package pdftex.def Info: images/lv-cmfg-function-tree.png  used on input line 1
@@ -627,12 +698,24 @@ Package pdftex.def Info: images/lv-cmfg-function-tree.png  used on input line 1
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./images/jiang-cloud-mfg.png> <./images/wang-integrated-mfg-services.png>]
-<images/skulj-cmdna.png, id=382, 244.915pt x 167.62625pt>
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.155 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.155 
+       <./images/jiang-cloud-mfg.png> <./images/wang-integrated-mfg-services.pn
+g>]
+<images/skulj-cmdna.png, id=501, 244.915pt x 167.62625pt>
 File: images/skulj-cmdna.png Graphic file (type png)
 <use images/skulj-cmdna.png>
 Package pdftex.def Info: images/skulj-cmdna.png  used on input line 158.
 (pdftex.def)             Requested size: 166.28586pt x 113.81102pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -642,46 +725,77 @@ Overfull \hbox (10.75066pt too wide) in paragraph at lines 165--167
 s Man-age-ment within
  []
 
-[26 <./images/lv-cmfg-architecture.png> <./images/lv-cmfg-function-tree.png>]
-<images/liu-mas-architecture.png, id=389, 357.335pt x 125.46875pt>
+[27pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.167 \begin{itemize}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{figure.3.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.167 \begin{itemize}
+                      <./images/lv-cmfg-architecture.png> <./images/lv-cmfg-fun
+ction-tree.png>]
+<images/liu-mas-architecture.png, id=508, 357.335pt x 125.46875pt>
 File: images/liu-mas-architecture.png Graphic file (type png)
 <use images/liu-mas-architecture.png>
 Package pdftex.def Info: images/liu-mas-architecture.png  used on input line 17
 6.
 (pdftex.def)             Requested size: 324.15028pt x 113.81102pt.
-
-[27 <./images/skulj-cmdna.png>] [28 <./images/liu-mas-architecture.png>])
-[29]
+ [28pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.179 \end{figure}
+                   <./images/skulj-cmdna.png>] [29pdfTeX warning (ext4): destin
+ation with the same identifier (name{figure.3.7}) has been already used, duplic
+ate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.187 \begin{enumerate}
+                        <./images/liu-mas-architecture.png>]) [30]
 \openout2 = `chapter3.aux'.
 
- (./chapter3.tex
+
+(./chapter3.tex
 Chapter 4.
-[30
+[31
 
 
 
 
-] [31] [32]
-<images/centralized-cmfg-architecture.png, id=421, 258.7266pt x 226.446pt>
+] [32] [33]
+<images/centralized-cmfg-architecture.png, id=539, 258.7266pt x 226.446pt>
 File: images/centralized-cmfg-architecture.png Graphic file (type png)
 <use images/centralized-cmfg-architecture.png>
 Package pdftex.def Info: images/centralized-cmfg-architecture.png  used on inpu
 t line 30.
 (pdftex.def)             Requested size: 130.03409pt x 113.81102pt.
-<images/decentralized-cmfg-architecture.png, id=422, 220.752pt x 200.7135pt>
+<images/decentralized-cmfg-architecture.png, id=540, 220.752pt x 200.7135pt>
 File: images/decentralized-cmfg-architecture.png Graphic file (type png)
 <use images/decentralized-cmfg-architecture.png>
 Package pdftex.def Info: images/decentralized-cmfg-architecture.png  used on in
 put line 38.
 (pdftex.def)             Requested size: 125.1731pt x 113.81102pt.
- [33 <./images/centralized-cmfg-architecture.png>]
-<images/scattered-mfg-architecture.png, id=428, 215.496pt x 216.81pt>
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.42 
+      <./images/centralized-cmfg-architecture.png>]
+<images/scattered-mfg-architecture.png, id=546, 215.496pt x 216.81pt>
 File: images/scattered-mfg-architecture.png Graphic file (type png)
 <use images/scattered-mfg-architecture.png>
 Package pdftex.def Info: images/scattered-mfg-architecture.png  used on input l
 ine 48.
 (pdftex.def)             Requested size: 113.12065pt x 113.81102pt.
- [34 <./images/decentralized-cmfg-architecture.png>]
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.55 
+      <./images/decentralized-cmfg-architecture.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []\OT1/cmr/m/n/10 users (con-
  []
@@ -891,8 +1005,19 @@ Underfull \hbox (badness 4981) in paragraph at lines 80--81
 \OT1/cmr/m/n/10 (SM) Medium-
  []
 
-[35 <./images/scattered-mfg-architecture.png>] [36]
-<images/platform-building-blocks.png, id=443, 257.763pt x 165.2574pt>
+[36pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.97 \end{itemize}
+                   <./images/scattered-mfg-architecture.png>] [37pdfTeX warning
+ (ext4): destination with the same identifier (name{table.4.1}) has been alread
+y used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.97 \end{itemize}
+                  ]
+<images/platform-building-blocks.png, id=562, 257.763pt x 165.2574pt>
 File: images/platform-building-blocks.png Graphic file (type png)
 <use images/platform-building-blocks.png>
 Package pdftex.def Info: images/platform-building-blocks.png  used on input lin
@@ -913,8 +1038,19 @@ Underfull \hbox (badness 1748) in paragraph at lines 128--128
 []\OT1/cmr/m/n/10 Real-time schedul-
  []
 
-[37 <./images/platform-building-blocks.png>] [38] [39]
-<images/operations-mode-smfg.png, id=463, 393.1488pt x 228.3732pt>
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.138 \subsection
+                 {Platform Functionalities} <./images/platform-building-blocks.
+png>] [39pdfTeX warning (ext4): destination with the same identifier (name{tabl
+e.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.138 \subsection
+                 {Platform Functionalities}] [40]
+<images/operations-mode-smfg.png, id=582, 393.1488pt x 228.3732pt>
 File: images/operations-mode-smfg.png Graphic file (type png)
 <use images/operations-mode-smfg.png>
 Package pdftex.def Info: images/operations-mode-smfg.png  used on input line 14
@@ -925,17 +1061,23 @@ Overfull \hbox (0.76813pt too wide) in paragraph at lines 153--153
 []\OT1/cmr/bx/n/12 Platform Co-or-di-na-tion and Ne-go-ti-a-tion Mech-a-nisms 
  []
 
-) [40 <./images/operations-mode-smfg.png>] [41]
+) [41pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.29 \include{chapter3}
+                        <./images/operations-mode-smfg.png>] [42]
 \openout2 = `chapter4.aux'.
 
- (./chapter4.tex
+
+(./chapter4.tex
 Chapter 5.
 
 Overfull \hbox (1.28786pt too wide) in paragraph at lines 4--4
 []\OT1/cmr/bx/n/14.4 A Multi-Agent Sys-tem ar-chi-tec-ture for man-
  []
 
-[42
+[43
 
 
 
@@ -945,39 +1087,285 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--15
 
  []
 
-[43] [44] [45]) [46] [47] [48] (./document.aux (./frontespizio.aux)
-(./abstract.aux) (./publications.aux) (./introduction.aux) (./chapter1.aux)
-(./chapter2.aux) (./chapter3.aux) (./chapter4.aux))
+[44] [45] [46]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 92.
+ [47] [48] [49] [50]
+<images/sequence-diagram-case1.png, id=661, 276.03125pt x 220.825pt>
+File: images/sequence-diagram-case1.png Graphic file (type png)
+<use images/sequence-diagram-case1.png>
+Package pdftex.def Info: images/sequence-diagram-case1.png  used on input line 
+184.
+(pdftex.def)             Requested size: 284.54279pt x 227.62204pt.
+<images/sequence-diagram-case2.png, id=662, 286.06876pt x 252.945pt>
+File: images/sequence-diagram-case2.png Graphic file (type png)
+<use images/sequence-diagram-case2.png>
+Package pdftex.def Info: images/sequence-diagram-case2.png  used on input line 
+190.
+(pdftex.def)             Requested size: 257.4333pt x 227.62204pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/sequence-diagram-case3.png, id=663, 281.05pt x 259.97125pt>
+File: images/sequence-diagram-case3.png Graphic file (type png)
+<use images/sequence-diagram-case3.png>
+Package pdftex.def Info: images/sequence-diagram-case3.png  used on input line 
+197.
+(pdftex.def)             Requested size: 246.0768pt x 227.62204pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+[51pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.207 
+       <./images/sequence-diagram-case1.png>] [52pdfTeX warning (ext4): destina
+tion with the same identifier (name{figure.5.2}) has been already used, duplica
+te ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.211 \subsection
+                 {Model description, requirements and network dynamics} <./imag
+es/sequence-diagram-case2.png>] [53pdfTeX warning (ext4): destination with the 
+same identifier (name{figure.5.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.216     \item N
+                 egotiation criteria between the demanding node and the prod...
+ <./images/sequence-diagram-case3.png>] [54]
+<images/visual-repr-steps-algorithm.png, id=683, 355.29948pt x 165.38065pt>
+File: images/visual-repr-steps-algorithm.png Graphic file (type png)
+<use images/visual-repr-steps-algorithm.png>
+Package pdftex.def Info: images/visual-repr-steps-algorithm.png  used on input 
+line 239.
+(pdftex.def)             Requested size: 244.51175pt x 113.81102pt.
+ [55pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.249 \begin{itemize}
+                      <./images/visual-repr-steps-algorithm.png>] [56]
+<images/graphical-evolution-of-path.png, id=699, 259.81065pt x 240.6591pt>
+File: images/graphical-evolution-of-path.png Graphic file (type png)
+<use images/graphical-evolution-of-path.png>
+Package pdftex.def Info: images/graphical-evolution-of-path.png  used on input 
+line 333.
+(pdftex.def)             Requested size: 245.73643pt x 227.62204pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (4.65005pt too wide) in paragraph at lines 339--339
+[]\OT1/cmr/bx/n/12 Combining is-sues of Lo-cal-iza-tion, Frag-men-ta-tion, As-
+ []
+
+<images/prelim-phase-it0.png, id=700, 233.5635pt x 168.5205pt>
+File: images/prelim-phase-it0.png Graphic file (type png)
+<use images/prelim-phase-it0.png>
+Package pdftex.def Info: images/prelim-phase-it0.png  used on input line 345.
+(pdftex.def)             Requested size: 315.48242pt x 227.62204pt.
+[57]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[58pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.360     \item $
+                 \Delta R^{v_i} = \Delta C_X^{v_i} + \Delta C_Y^{v_i}$ is th...
+] [59pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.374 \end{equation}
+                     <./images/graphical-evolution-of-path.png>]
+<images/viz-repr-optim-alg.png, id=724, 337.041pt x 121.2165pt>
+File: images/viz-repr-optim-alg.png Graphic file (type png)
+<use images/viz-repr-optim-alg.png>
+Package pdftex.def Info: images/viz-repr-optim-alg.png  used on input line 388.
+
+(pdftex.def)             Requested size: 316.46371pt x 113.81102pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[60pdfTeX warning (ext4): destination with the same identifier (name{figure.5.6
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.396 \subsubsection
+                    {Example A} <./images/prelim-phase-it0.png>]
+<images/exempleA-it0.png, id=731, 261.97874pt x 204.5241pt>
+File: images/exempleA-it0.png Graphic file (type png)
+<use images/exempleA-it0.png>
+Package pdftex.def Info: images/exempleA-it0.png  used on input line 401.
+(pdftex.def)             Requested size: 145.77968pt x 113.81102pt.
+ [61pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.409     \item A
+                  cost $C^{(1)}_X$ is obtainedpdfTeX warning (ext4): destinatio
+n with the same identifier (name{figure.5.8}) has been already used, duplicate 
+ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.409     \item A
+                  cost $C^{(1)}_X$ is obtained <./images/viz-repr-optim-alg.png
+> <./images/exempleA-it0.png>]
+<images/exempleA-it1.png, id=740, 272.81924pt x 358.09785pt>
+File: images/exempleA-it1.png Graphic file (type png)
+<use images/exempleA-it1.png>
+Package pdftex.def Info: images/exempleA-it1.png  used on input line 418.
+(pdftex.def)             Requested size: 173.41313pt x 227.62204pt.
+ [62pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.433     \item A
+                  cost $C_X^{(2)}$ is computed. <./images/exempleA-it1.png>]
+<images/expA-it2.png, id=747, 257.64255pt x 330.9966pt>
+File: images/expA-it2.png Graphic file (type png)
+<use images/expA-it2.png>
+Package pdftex.def Info: images/expA-it2.png  used on input line 442.
+(pdftex.def)             Requested size: 177.17992pt x 227.62204pt.
+
+[63pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+0}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.451 \end{itemize}
+                    <./images/expA-it2.png>]
+<images/expA-it3.png, id=756, 266.6763pt x 281.853pt>
+File: images/expA-it3.png Graphic file (type png)
+<use images/expA-it3.png>
+Package pdftex.def Info: images/expA-it3.png  used on input line 464.
+(pdftex.def)             Requested size: 161.52887pt x 170.71652pt.
+ [64pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.477 \paragraph
+                {Test 1} <./images/expA-it3.png>]
+Overfull \hbox (11.79327pt too wide) in paragraph at lines 478--478
+ []\OT1/cmr/bx/n/10 Test 1[] \OT1/cmr/m/n/10 Start-ing with a Scat-tered Man-u-
+fac-tur-ing net-work with $\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = []$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+
+ []
+
+[65pdfTeX warning (ext4): destination with the same identifier (name{table.5.2}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.525 \paragraph
+                {Test 2}] [66pdfTeX warning (ext4): destination with the same i
+dentifier (name{table.5.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.557 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.5
+.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.557 
+      ]
+Overfull \hbox (36.19586pt too wide) in paragraph at lines 613--614
+ []\OT1/cmr/bx/n/10 Test 3[] \OT1/cmr/m/n/10 Scat-tered Man-u-fac-tur-ing net-w
+ork with $\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = []$
+ []
+
+[67pdfTeX warning (ext4): destination with the same identifier (name{table.5.5}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.625 \end{pmatrix}$$
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{table.5.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.625 \end{pmatrix}$$
+                     ]
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
+
+ []
+
+
+Overfull \hbox (146.81673pt too wide) in paragraph at lines 659--662
+\OT1/cmr/m/n/10 Applying the pick-ing al-go-rithm (PA), the re-sult is the fol-
+low-ing: $\OML/cmm/m/it/10 P \OT1/cmr/m/n/10 := []$,
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 693--30
+
+ []
+
+[68pdfTeX warning (ext4): destination with the same identifier (name{table.5.7}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.30 \include{chapter4}
+                       ] [69pdfTeX warning (ext4): destination with the same id
+entifier (name{table.5.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.30 \include{chapter4}
+                       ] (./document.aux (./frontespizio.aux) (./abstract.aux)
+(./publications.aux) (./introduction.aux) (./chapter1.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 0F5810930DBDBBDC4813C84766DC8FF0;7130.
+(rerunfilecheck)             Checksum: B7083A0B566D705F63E3CBF015DFCA5B;10219.
  ) 
 Here is how much of TeX's memory you used:
- 8801 strings out of 478994
- 130222 string characters out of 5858185
- 437291 words of memory out of 5000000
- 25955 multiletter control sequences out of 15000+600000
- 407295 words of font info for 40 fonts, out of 8000000 for 9000
+ 9664 strings out of 478994
+ 144028 string characters out of 5858185
+ 468089 words of memory out of 5000000
+ 26711 multiletter control sequences out of 15000+600000
+ 410515 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,10n,74p,3151b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
-xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on ./document.pdf (48 pages, 1236022 bytes).
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2021/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2021/texmf-
+dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on ./document.pdf (69 pages, 2350219 bytes).
 PDF statistics:
- 600 PDF objects out of 1000 (max. 8388607)
- 503 compressed objects within 6 object streams
- 163 named destinations out of 1000 (max. 500000)
- 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 923 PDF objects out of 1000 (max. 8388607)
+ 771 compressed objects within 8 object streams
+ 231 named destinations out of 1000 (max. 500000)
+ 475 words of extra memory for PDF output out of 10000 (max. 10000000)
 
