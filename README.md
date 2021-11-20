@@ -28,4 +28,4 @@ Please cite using the following BibTex entry:
 
 Download the full compiled thesis from UNISA repo: (still not public).
 
-[First page of the Thesis]()
+![First page of the Thesis](https://github.com/nick88msn/scattered-manufacturing/blob/main/images/frontespizio.png?raw=true)
