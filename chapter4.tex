@@ -657,7 +657,7 @@ Assuming $v_1$ as the demanding node, while node $v_j = 2,...,7$, are the produc
 Preliminary, $P : = \emptyset, C(P) : = 0, v_s : = v_1$. In this case, $L = 130$ .which have to be distributed among the nine productive nodes. When the iterations start, the orchestrator indicates the following division: $Q_2 = 10, Q_3 = 15, Q_4 = 15, Q_5 = 25, Q_6 = 20, Q_7 = 15, Q_8 = 5, Q_9 = 10,$ and $Q_10 = 15$, at prices $p_L^i , i=2,...,10$. The iterations are listed as follows.\\
 
 \textit{First iteration:}\\
-Applying the picking algorithm (PA), the result is the following: $P : = \left\{e_{12},e_{23}, e_{39}, e_{94}, e_{45}, e_{510}, e_{106}, e_{68}, e_{87}, e_{71} \right\}$, $C(P) : = 185 = C_X^{(1)}$. As $Q_i^{(1)} = Q_i, i=2,...,10$ and the result $C_Y^{(1)} = \sum^{10}_{i=2} Q_i^{1} p_L^i = 1975$, and $C_{TOT}^{(1)} = 2160$.\\
+Applying the picking algorithm (PA), the result is the following: $P : = \{e_{12}, e_{23},$ $e_{39},e_{94}, e_{45}, e_{510}, e_{106}, e_{68}, e_{87}, e_{71} \}$, $C(P) : = 185 = C_X^{(1)}$. As $Q_i^{(1)} = Q_i, i=2,...,10$ and the result $C_Y^{(1)} = \sum^{10}_{i=2} Q_i^{1} p_L^i = 1975$, and $C_{TOT}^{(1)} = 2160$.\\
 Considering the various reallocations and variations of costs, we get Table \ref{tab:reallocation-plan-first-it-test3} is obtained.
 
 \begin{table}
@@ -691,3 +691,94 @@ Considering the various reallocations and variations of costs, we get Table \ref
 \end{table}
 
 Table \ref{tab:reallocation-plan-first-it-test3} shows that node $v_6$ has to be excluded in the second iteration.\\
+\textit{Second iteration:}\\
+The new path becomes $P : = \left\{e_{12},e_{23}, e_{39}, e_{94}, e_{45}, e_{510}, e_{107}, e_{78}, e_{81} \right\}$, $C(P) : = 161 = C_X^{(2)}$. We get that $Q_2^{(2)} = 13, Q_3^{(2)} = 17, Q_4^{(2)} = 17, Q_5^{(2)} = 28,Q_7^{(2)} = 17,Q_8^{(2)} = 7,Q_9^{(2)} = 13,Q_10^{(2)} = 18$, and the result $C_Y^{(2)} = 1730$, and $C_{TOT}^{(2)} = 1891$.\\
+The computation of weights for nodes and possible variations of costs are presented in Table \ref{tab:reallocation-plan-second-it-test3}.
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Nodes} & \textbf{$P \setminus v_i$} & \textbf{$\Delta C_X^{v_i}$} & \textbf{$\Delta C_Y^{v_i}$} & \textbf{$\Delta R^{v_i}$} \\
+        \hline
+        $v_2$ & $\left\{e_{15},  e_{54}, e_{43}, e_{39}, e_{910}, e_{107}, e_{78}, e_{81}, \right\}$ & -5 & +40 & +35 \\
+        \hline
+        $v_3$ & $\left\{e_{12},  e_{27},  e_{75},  e_{54},  e_{410},  e_{108},  e_{89},  e_{91}  \right\}$ & -10 & -45 & -55 \\
+        \hline
+        $v_4$ & $\left\{e_{12},  e_{23},  e_{39},  e_{910},  e_{105},  e_{58},  e_{87},  e_{71}  \right\}$ & -7 & +55 & +48 \\
+        \hline
+        $v_5$ & $\left\{ e_{12},  e_{23},  e_{39},  e_{94},  e_{410},  e_{107},  e_{78},  e_{81}  \right\}$ & -15 & -60 & -75 \\
+        \hline
+        $v_7$ & $\left\{ e_{12},  e_{23},  e_{39},  e_{94},  e_{45},  e_{510},  e_{108},  e_{81}  \right\}$ & -20 & -140 & -160 \\
+        \hline
+        $v_8$ & $\left\{e_{12},  e_{23},  e_{39},  e_{94},  e_{45},  e_{510},  e_{107},  e_{71}   \right\}$ & -18 & -85 & -67 \\
+        \hline
+        $v_9$ & $\left\{e_{12},  e_{23},  e_{310},  e_{105},  e_{54},  e_{48},  e_{87},  e_{71}   \right\}$ & -26 & +40 & +14 \\
+        \hline
+        $v_10$ & $\left\{ e_{12},  e_{23},  e_{39},  e_{94},  e_{45},  e_{58},  e_{87},  e_{71}  \right\}$ & -12 & +70 & +58 \\
+        \hline
+    \end{tabular}
+
+    \caption{Logistics paths, variations of costs and reallocations for the second iteration test n.3}
+    \label{tab:reallocation-plan-second-it-test3}
+\end{table}
+From Table \ref{tab:reallocation-plan-second-it-test3}, it follows that the next iteration does not foresee node $v_7$.
+
+\textit{Third iteration:}\\
+In this case, the new path is $P : = \left\{e_{12},e_{23}, e_{39}, e_{94}, e_{45}, e_{510}, e_{108}, e_{81} \right\}$, $C(P) : = 141 = C_X^{(3)}$. We get that $Q_2^{(3)} = 15, Q_3^{(3)} = 19, Q_4^{(3)} = 20, Q_5^{(3)} = 30,Q_8^{(3)} = 9,Q_9^{(3)} = 16,Q_10^{(3)} = 20$, while $C_Y^{(3)} = 1590$, and $C_{TOT}^{(3)} = 1731$.\\
+Weights for nodes and variations of costs are in Table \ref{tab:reallocation-plan-third-it-test3}.
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Nodes} & \textbf{$P \setminus v_i$} & \textbf{$\Delta C_X^{v_i}$} & \textbf{$\Delta C_Y^{v_i}$} & \textbf{$\Delta R^{v_i}$} \\
+        \hline
+        $v_2$ & $\left\{e_{15},  e_{54}, e_{43}, e_{39}, e_{910}, e_{108}, e_{81}, \right\}$ & -5 & +35 & +30 \\
+        \hline
+        $v_3$ & $\left\{e_{12},  e_{25},  e_{54},  e_{410},  e_{108},  e_{89},  e_{91}  \right\}$ & -1 & -65 & -65 \\
+        \hline
+        $v_4$ & $\left\{e_{12},  e_{23},  e_{39},  e_{910},  e_{105},  e_{58},  e_{81}  \right\}$ & -11 & +45 & +34 \\
+        \hline
+        $v_5$ & $\left\{ e_{12},  e_{23},  e_{39},  e_{94},  e_{410},  e_{108},  e_{81}  \right\}$ & -15 & -16 & -31 \\
+        \hline
+        $v_8$ & $\left\{e_{12},  e_{23},  e_{39},  e_{94},  e_{45},  e_{510},  e_{101}   \right\}$ & -19 & -25 & -44 \\
+        \hline
+        $v_9$ & $\left\{e_{12},  e_{23},  e_{310},  e_{105},  e_{54},  e_{48},  e_{81}   \right\}$ & -30 & +35 & +5 \\
+        \hline
+        $v_10$ & $\left\{ e_{12},  e_{23},  e_{39},  e_{94},  e_{45},  e_{58},  e_{81}  \right\}$ & -16 & +45 & +29 \\
+        \hline
+    \end{tabular}
+
+    \caption{Logistics paths, variations of costs and reallocations for the third iteration test n.3}
+    \label{tab:reallocation-plan-third-it-test3}
+\end{table}
+Table \ref{tab:reallocation-plan-third-it-test3} shows that node $v_3$ must be excluded in the next iteration.
+
+\textit{Fourth iteration:}\\
+In this case, the new path is $P : = \left\{e_{12},e_{25}, e_{54}, e_{410}, e_{108}, e_{89}, e_{91} \right\}$, $C(P) : = 140 = C_X^{(4)}$. We get that $Q_2^{(4)} = 19, Q_4^{(4)} = 24, Q_5^{(4)} = 33,Q_8^{(4)} = 12,Q_9^{(4)} = 19,Q_10^{(4)} = 23$, while $C_Y^{(4)} = 1525$, and $C_{TOT}^{(4)} = 1665$.\\
+Weights for nodes and variations of costs are in Table \ref{tab:reallocation-plan-fourth-it-test3}.
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \textbf{Nodes} & \textbf{$P \setminus v_i$} & \textbf{$\Delta C_X^{v_i}$} & \textbf{$\Delta C_Y^{v_i}$} & \textbf{$\Delta R^{v_i}$} \\
+        \hline
+        $v_2$ & $\left\{e_{15},  e_{54}, e_{410}, e_{108}, e_{89}, e_{91}, \right\}$ & -15 & +315 & +300 \\
+        \hline
+        $v_4$ & $\left\{e_{12},  e_{25},  e_{510},  e_{108},  e_{89},  e_{91}  \right\}$ & -21 & +349 & +328 \\
+        \hline
+        $v_5$ & $\left\{ e_{12},  e_{24},  e_{410},  e_{108},  e_{89},  e_{91}  \right\}$ & -16 & +299 & +283 \\
+        \hline
+        $v_8$ & $\left\{e_{12},  e_{25},  e_{54},  e_{410},  e_{109},  e_{91}   \right\}$ & -16 & +139 & +123 \\
+        \hline
+        $v_9$ & $\left\{e_{12},  e_{25},  e_{54},  e_{410},  e_{108},  e_{81}   \right\}$ & -41 & +240 & +199 \\
+        \hline
+        $v_10$ & $\left\{ e_{12},  e_{25},  e_{54},  e_{49},  e_{98},  e_{81}  \right\}$ & -125 & +287 & +162 \\
+        \hline
+    \end{tabular}
+
+    \caption{Logistics paths, variations of costs and reallocations for the fourth iteration test n.3}
+    \label{tab:reallocation-plan-fourth-it-test3}
+\end{table}
+Table \ref{tab:reallocation-plan-fourth-it-test3} shows that node $v_3$ must be excluded in the next iteration.
+
+The Iterations stop as $\Delta R^{vi} > 0, i = 2,3,4,5,8,9,10$. The network has reached an equilibrium. Notice that further iterations could be possible if the demanding nodes and production nodes could negotiate about the price/plans. This is object of further research activities, dealing with possible variations of parameters $k_L$, $k_M$ and $k_H$.
