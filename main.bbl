@@ -1,0 +1,2112 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{adamson_state_2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c58c79155ce98e2e614c6db80f7b9d9f}{%
+           family={Adamson},
+           familyi={A\bibinitperiod},
+           given={Göran},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=65436496e63d7ea35a6bc5c412afdc17}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lihui},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=71838bf6cff4cb01af6302a1bbb23d5f}{%
+           family={Holm},
+           familyi={H\bibinitperiod},
+           given={Magnus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madison, Wisconsin, USA}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \strng{fullhash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \strng{bibnamehash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \strng{authorbibnamehash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \strng{authornamehash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \strng{authorfullhash}{ce4399e1471d8cabf6f066ce21a33e91}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cloud manufacturing has emerged as a new manufacturing paradigm, which combines technologies (such as Internet of Things, Cloud computing, semantic Web, virtualisation and service-oriented technologies) with advanced manufacturing models, information and communication technologies. It aims to be networked, intelligent, service-oriented, knowledge-based and energy efficient, and promises a variety of benefits and advantages by providing fast, reliable and secure on-demand services for users. It is envisioned that companies in all sectors of manufacturing will be able to package their resources and know-hows in the Cloud, making them conveniently available for others through pay-as-you-go, which is also timely and economically attractive. Resources, e.g. manufacturing software tools, applications, knowledge and fabrication capabilities, will then be made accessible to presumptive consumers on a worldwide basis. After surveying a vast array of available publications, this paper presents an up-to-date literature review together with future trends and research directions in Cloud manufacturing.}
+      \field{booktitle}{Volume 2: {Systems}; {Micro} and {Nano} {Technologies}; {Sustainable} {Manufacturing}}
+      \field{isbn}{978-0-7918-5546-1}
+      \field{month}{6}
+      \field{title}{The {State} of the {Art} of {Cloud} {Manufacturing} and {Future} {Trends}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{V002T02A004}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1115/MSEC2013-1123
+      \endverb
+      \verb{urlraw}
+      \verb https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2013/55461/Madison,%20Wisconsin,%20USA/267740
+      \endverb
+      \verb{url}
+      \verb https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2013/55461/Madison,%20Wisconsin,%20USA/267740
+      \endverb
+    \endentry
+    \entry{chen_data_2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=76d2a0c3861b383bfabec56e48139137}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=805c74440bfd80dab72ebd65c65ed3dc}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Pan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75916034f60ced983937f039403ca17f}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Jiafu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acb4fbd490ecb5bea58849feb58a43b4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Daqiang},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d9fbc50e12486f11ef599cf2f3ffe11}{%
+           family={Vasilakos},
+           familyi={V\bibinitperiod},
+           given={Athanasios\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf81097ec90f7406a44a4ac9ae181728}{%
+           family={Rong},
+           familyi={R\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7902539e2c4207fccfc59195bf3c7cc4}
+      \strng{fullhash}{038f5fffe87828d0e90266f5397a8912}
+      \strng{bibnamehash}{7902539e2c4207fccfc59195bf3c7cc4}
+      \strng{authorbibnamehash}{7902539e2c4207fccfc59195bf3c7cc4}
+      \strng{authornamehash}{7902539e2c4207fccfc59195bf3c7cc4}
+      \strng{authorfullhash}{038f5fffe87828d0e90266f5397a8912}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1550-1477, 1550-1477}
+      \field{journaltitle}{International Journal of Distributed Sensor Networks}
+      \field{month}{8}
+      \field{number}{8}
+      \field{shorttitle}{Data {Mining} for the {Internet} of {Things}}
+      \field{title}{Data {Mining} for the {Internet} of {Things}: {Literature} {Review} and {Challenges}}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{431047}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2015/431047
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/7U5LG37J/Chen et al. - 2015 - Data Mining for the Internet of Things Literature.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1155/2015/431047
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1155/2015/431047
+      \endverb
+    \endentry
+    \entry{chituc2009challenges}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d155d4396908621ec9ec35e52e213a86}{%
+           family={Chituc},
+           familyi={C\bibinitperiod},
+           given={Claudia-Melania},
+           giveni={C\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=935d1c504a8f85dab59af1e775eccc7d}{%
+           family={Oliveira\bibnamedelima Restivo},
+           familyi={O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Francisco\bibnamedelima José},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{organization}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{ed40f2b4b441e57628cb5a7da3758807}
+      \strng{fullhash}{ed40f2b4b441e57628cb5a7da3758807}
+      \strng{bibnamehash}{ed40f2b4b441e57628cb5a7da3758807}
+      \strng{authorbibnamehash}{ed40f2b4b441e57628cb5a7da3758807}
+      \strng{authornamehash}{ed40f2b4b441e57628cb5a7da3758807}
+      \strng{authorfullhash}{ed40f2b4b441e57628cb5a7da3758807}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Second MIT International Symposium on Engineering Systems}
+      \field{title}{Challenges and Trends in Distributed Manufacturing Systems: Are wise engineering systems the ultimate answer?}
+      \field{year}{2009}
+    \endentry
+    \entry{ding_cloud-based_2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=18674502f0a27a6a6a047b9618953d49}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4978b657d569765d2a9013e8faa6ac3}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xiao-Yang},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=984dcddb641a9236123661515e4a5205}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Li-Juan},
+           giveni={L\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d09ae70691a272bec315e8cffd799d77}
+      \strng{fullhash}{d09ae70691a272bec315e8cffd799d77}
+      \strng{bibnamehash}{d09ae70691a272bec315e8cffd799d77}
+      \strng{authorbibnamehash}{d09ae70691a272bec315e8cffd799d77}
+      \strng{authornamehash}{d09ae70691a272bec315e8cffd799d77}
+      \strng{authorfullhash}{d09ae70691a272bec315e8cffd799d77}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18125638}
+      \field{journaltitle}{Information Technology Journal}
+      \field{month}{8}
+      \field{number}{9}
+      \field{title}{A {Cloud}-{Based} {Collaborative} {Manufacturing} {Resource} {Sharing} {Services}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{11}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{1258\bibrangedash 1264}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3923/itj.2012.1258.1264
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/ANMETEGT/Ding et al. - 2012 - A Cloud-Based Collaborative Manufacturing Resource.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scialert.net/abstract/?doi=itj.2012.1258.1264
+      \endverb
+      \verb{url}
+      \verb https://www.scialert.net/abstract/?doi=itj.2012.1258.1264
+      \endverb
+    \endentry
+    \entry{fisher_cloud_2018}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=4cfc149f57bd55557c6f8e63d029122c}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7501bfa4e6699c3542671c949d0a142d}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdcd72ff7a340912fe2ad99177aad62c}{%
+           family={Porcu},
+           familyi={P\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1284d43f7a5115797ab704a9d64e2628}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Darren},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1a9c34aae4b8b112ca9afb6b4f66211}{%
+           family={Rigley},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3364c5a953aabe9e5f3316b5c01a18a}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Rachel\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{11e9c35ad2ebc5deb9153173b245826f}
+      \strng{fullhash}{fff373f29c47e951b525674d412f16e1}
+      \strng{bibnamehash}{11e9c35ad2ebc5deb9153173b245826f}
+      \strng{authorbibnamehash}{11e9c35ad2ebc5deb9153173b245826f}
+      \strng{authornamehash}{11e9c35ad2ebc5deb9153173b245826f}
+      \strng{authorfullhash}{fff373f29c47e951b525674d412f16e1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02786125}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{month}{4}
+      \field{title}{Cloud manufacturing as a sustainable process manufacturing route}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{47}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{53\bibrangedash 68}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jmsy.2018.03.005
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/Users/nicolamastrandrea/Zotero/storage/S7HSQBTT/Fisher et al. - 2018 - Cloud manufacturing as a sustainable process manuf.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612518300384
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612518300384
+      \endverb
+    \endentry
+    \entry{hauder_optimization_2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2a2e23a66bf94be4cf6155ae46f0344f}{%
+           family={Hauder},
+           familyi={H\bibinitperiod},
+           given={Viktoria\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddb816cc9b3331ffa63773e3a3b7243d}{%
+           family={Beham},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3b555094827b235ef74e410e9c1d817}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b3bd7ec0b86dacdb3988998da410572}{%
+           family={Affenzeller},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Berlin Germany}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ef5b3ba4dc188e03270cbec78de305a7}
+      \strng{fullhash}{f786d53c6bcfb682ad99631859427b74}
+      \strng{bibnamehash}{ef5b3ba4dc188e03270cbec78de305a7}
+      \strng{authorbibnamehash}{ef5b3ba4dc188e03270cbec78de305a7}
+      \strng{authornamehash}{ef5b3ba4dc188e03270cbec78de305a7}
+      \strng{authorfullhash}{f786d53c6bcfb682ad99631859427b74}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {Genetic} and {Evolutionary} {Computation} {Conference} {Companion}}
+      \field{isbn}{978-1-4503-4939-0}
+      \field{month}{7}
+      \field{title}{Optimization networks for real-world production and logistics problems}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1411\bibrangedash 1414}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/3067695.3092959
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3067695.3092959
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3067695.3092959
+      \endverb
+    \endentry
+    \entry{he_state---art_2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d52c6c08d7a7ac79e07aa638bf2a3d3e}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Wu},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=34d430e0c7a22d2b873db45dd7a87e50}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lida},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \strng{fullhash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \strng{bibnamehash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \strng{authorbibnamehash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \strng{authornamehash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \strng{authorfullhash}{c1661be8f1d069667bd2ec105d1cc66f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0951-192X, 1362-3052}
+      \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{A state-of-the-art survey of cloud manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{28}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{239\bibrangedash 250}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/0951192X.2013.874595
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/0951192X.2013.874595
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/0951192X.2013.874595
+      \endverb
+    \endentry
+    \entry{bo-hu_cloud_2010}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=5ed68344bd160a09a9c2e5f0e495cdf0}{%
+           family={Bo-Hu},
+           familyi={B\bibinithyphendelim H\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cbed1af48af7eadc1f23c2129cd8741}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cd0bf37ac3112f6054e9efed2b29071}{%
+           family={Shi-Long},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=911962340be9ef6bdfad41f53e54302f}{%
+           family={Fei},
+           familyi={F\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70601926f6a4929c16b588a69e51ed66}{%
+           family={JW},
+           familyi={J\bibinitperiod},
+           given={Cao},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3063bff6135bc8743d71370f2f8fb720}{%
+           family={XD},
+           familyi={X\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79d1423d5f08c46558858972371f2656}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b590d3d202dbfeb1bf11829235964aed}{%
+           family={XD},
+           familyi={X\bibinitperiod},
+           given={Chai},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f266f0bca2296689cf0b953962979349}
+      \strng{fullhash}{2677a19fca842cc34e50320bcf5b659d}
+      \strng{bibnamehash}{f266f0bca2296689cf0b953962979349}
+      \strng{authorbibnamehash}{f266f0bca2296689cf0b953962979349}
+      \strng{authornamehash}{f266f0bca2296689cf0b953962979349}
+      \strng{authorfullhash}{2677a19fca842cc34e50320bcf5b659d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To solve more complex manufacturing problems and perform larger-scale collaborative manufacturing, the impediments to practical application and development of Networked Manufacturing (NM) were analyzed. Technologies, such as cloud computing, cloud security, high performance computing, Internet of things which were used to solve the mentioned impediments, were briefly described. Based on it, a new service-oriented networked manufacturing model called Cloud Manufacturing (CMfg) was put forward. Then, the concept of CMfg was defined. And differences among CMfg, application service provider and manufacturing grid were discussed. CMfg architecture was also proposed, key technologies for implementing CMfg were studied and preliminary research results were introduced. Finally, an application prototype of CMfg, ie, COSIM-SCP, was presented.}
+      \field{journaltitle}{Computer Integrated Manufacturing Systems}
+      \field{title}{Cloud manufacturing: a new service-oriented networked manufacturing model}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{kayabay_wip_2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=32b7a0d2f9f5b85275a4a85c8eb7b81b}{%
+           family={Kayabay},
+           familyi={K\bibinitperiod},
+           given={Kerem},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=405e8d43e6bfa354b78d3fad23da44be}{%
+           family={Gokalp},
+           familyi={G\bibinitperiod},
+           given={Mert\bibnamedelima Onuralp},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7340794a64ae8f9b113c5f9badeeb26}{%
+           family={Eren},
+           familyi={E\bibinitperiod},
+           given={P.\bibnamedelimi Erhan},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d06140393985b4c290dd9ea279f033d}{%
+           family={Kocyigit},
+           familyi={K\bibinitperiod},
+           given={Altan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5d62d75fed022f7f5eea1606f7785231}
+      \strng{fullhash}{c94ee4849ba301db994139b85adc6471}
+      \strng{bibnamehash}{5d62d75fed022f7f5eea1606f7785231}
+      \strng{authorbibnamehash}{5d62d75fed022f7f5eea1606f7785231}
+      \strng{authornamehash}{5d62d75fed022f7f5eea1606f7785231}
+      \strng{authorfullhash}{c94ee4849ba301db994139b85adc6471}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 {IEEE} 11th {Conference} on {Service}-{Oriented} {Computing} and {Applications} ({SOCA})}
+      \field{isbn}{978-1-5386-9133-5}
+      \field{month}{11}
+      \field{title}{[{WiP}] {A} {Workflow} and {Cloud} {Based} {Service}-{Oriented} {Architecture} for {Distributed} {Manufacturing} in {Industry} 4.0 {Context}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{88\bibrangedash 92}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/SOCA.2018.00020
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8599583/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8599583/
+      \endverb
+    \endentry
+    \entry{khajavi_additive_2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6c0cea65badd058981ec5dab9eba3ae9}{%
+           family={Khajavi},
+           familyi={K\bibinitperiod},
+           given={Siavash\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7356d0b0baa4ce397978f028f1834e6f}{%
+           family={Partanen},
+           familyi={P\bibinitperiod},
+           given={Jouni},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6957230b4fb45f21320cdf9034869cf}{%
+           family={Holmström},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \strng{fullhash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \strng{bibnamehash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \strng{authorbibnamehash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \strng{authornamehash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \strng{authorfullhash}{aabbf1f853c104485a2d4ac0a8b99ea4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01663615}
+      \field{journaltitle}{Computers in Industry}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Additive manufacturing in the spare parts supply chain}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{65}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{50\bibrangedash 63}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.compind.2013.07.008
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0166361513001565
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0166361513001565
+      \endverb
+    \endentry
+    \entry{laili_study_2012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=36d266ec810386d971f5b66dc4cea505}{%
+           family={Laili},
+           familyi={L\bibinitperiod},
+           given={Yuanjun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4149340bc388abb627321731645513a}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2be944442bbc819b74c3aade4c9299cf}{%
+           family={Sarker},
+           familyi={S\bibinitperiod},
+           given={Bhaba\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ae146e528a22c7863f8302c58c3235e4}
+      \strng{fullhash}{ffd91ff4dbd7a909ad8a0e60831ed529}
+      \strng{bibnamehash}{ae146e528a22c7863f8302c58c3235e4}
+      \strng{authorbibnamehash}{ae146e528a22c7863f8302c58c3235e4}
+      \strng{authornamehash}{ae146e528a22c7863f8302c58c3235e4}
+      \strng{authorfullhash}{ffd91ff4dbd7a909ad8a0e60831ed529}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0268-3768, 1433-3015}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{month}{11}
+      \field{number}{5-8}
+      \field{title}{A study of optimal allocation of computing resources in cloud manufacturing systems}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{671\bibrangedash 690}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s00170-012-3939-0
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00170-012-3939-0
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00170-012-3939-0
+      \endverb
+    \endentry
+    \entry{lim_theory_2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0afe0ef8d51e3a83d638feee5ff0ac34}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Ming\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d087c50b7661dd69d039c9c14912f059}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Weiqing},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d09ceadfc610fc7d7b1ec2eb9d0f5d8}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Zhimei},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e0b029b3bff6a8a1f581909fcb992119}
+      \strng{fullhash}{e0b029b3bff6a8a1f581909fcb992119}
+      \strng{bibnamehash}{e0b029b3bff6a8a1f581909fcb992119}
+      \strng{authorbibnamehash}{e0b029b3bff6a8a1f581909fcb992119}
+      \strng{authornamehash}{e0b029b3bff6a8a1f581909fcb992119}
+      \strng{authorfullhash}{e0b029b3bff6a8a1f581909fcb992119}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Purpose Cloud manufacturing (CMfg) is a networked manufacturing mode that promotes the agile, service-oriented, green and intelligent development of the manufacturing industry. Although some scholars have reviewed related studies of CMfg from multiple perspectives, these reviews are not fully systematic or well justified and fail to fully reveal the key characteristics in the development process of CMfg. The purpose of this paper is to systematically review the relevant research on CMfg via identification of key characteristics of definition, architecture, supporting technology and application of CMfg to provide critical information in decision support for the innovation and development of CMfg. Design/methodology/approach This study systematically reviews the relevant research on CMfg across theoretical methods to technical applications by integrating quantitative and qualitative methods. Word cloud method is used to quantitatively analyse the structure and feature of different definitions of CMfg. The principle of System Science is used to explore the basic components and functions of various CMfg architectures and their common and differing characteristics. A multi-level technology framework is developed to explore the development status of CMfg supporting technologies. A multi-stage application classification is proposed to reveal the application status of CMfg. Findings Through literature review, this study found that CMfg architecture is currently dominated by general architectures and lacks architectures that fit the actual enterprise characteristics; CMfg supporting technology is mature in the traditional cloud computing-based technology, but it is still weak in the development of virtualization and servitization technology, service scheduling technology; CMfg application is still in the initial stage and still lacks a relatively complete system application. By analysing the development status of CMfg, this study also identified potential research directions of CMfg in information management, service composition and evaluation, system application and sustainable development and other aspects. Research limitations/implications This paper predominantly focuses on journal articles and some key conference papers published in English and Chinese. Chinese articles account for more than half of the total. The reason is that CMfg was proposed by the Chinese and CMfg is suitable for the development of China's manufacturing industry because of China's intelligent manufacturing environment. It is believed that this research has reached a reliable comprehensiveness that can help scholars and practitioners establish new research directions and evaluate their work in CMfg. Originality/value Prior literature reviews ignore the identification and analysis of key feature identification for the current development of CMfg, including common and unique feature identification of different CMfg architectures and functions, multi-layer analysis and interpretation of CMfg technology and different stage analysis of CMfg applications. This study addresses these limitations and provides a comprehensive literature review.}
+      \field{issn}{0263-5577}
+      \field{journaltitle}{Industrial Management \& Data Systems}
+      \field{month}{7}
+      \field{number}{8}
+      \field{shorttitle}{Theory, supporting technology and application analysis of cloud manufacturing}
+      \field{title}{Theory, supporting technology and application analysis of cloud manufacturing: a systematic and comprehensive literature review}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{120}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1585\bibrangedash 1614}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1108/IMDS-10-2019-0570
+      \endverb
+      \verb{urlraw}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IMDS-10-2019-0570/full/html
+      \endverb
+      \verb{url}
+      \verb https://www.emerald.com/insight/content/doi/10.1108/IMDS-10-2019-0570/full/html
+      \endverb
+    \endentry
+    \entry{lin_oics_2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=403d99dae80f68d9495aa815da9abb77}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chih-Yin},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7680848c67adb6f6794cb6285f50ea0c}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Yen-Ju},
+           giveni={Y\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e68834840ff6dc81abaf1af88c45b5df}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Hsuan-Chun},
+           giveni={H\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b202be0288165c977a13b17dac8c07c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chao-Chun},
+           giveni={C\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{87c56ae757d55567dd105ca9314689bc}
+      \strng{fullhash}{033a8907d7874242dbf70dd2d5a63cd6}
+      \strng{bibnamehash}{87c56ae757d55567dd105ca9314689bc}
+      \strng{authorbibnamehash}{87c56ae757d55567dd105ca9314689bc}
+      \strng{authornamehash}{87c56ae757d55567dd105ca9314689bc}
+      \strng{authorfullhash}{033a8907d7874242dbf70dd2d5a63cd6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2308-0477}
+      \field{journaltitle}{Smart Science}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shorttitle}{{OICS}}
+      \field{title}{{OICS}: {A} {Knowledge}-based {Cloud} {Manufacturing} {System} for {Machine} {Tool} {Industry}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{92\bibrangedash 99}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/23080477.2015.11665642
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/88EXFKI5/Lin et al. - 2015 - OICS A Knowledge-based Cloud Manufacturing System.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/23080477.2015.11665642
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/23080477.2015.11665642
+      \endverb
+    \endentry
+    \entry{liu_resource_2011}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=8a84298a1096b86e848fe3dc0ea5bbd5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Quan},
+           giveni={Q\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8ba4dc44e20a33d79eeaf44e36851156}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fae60b45c24ddd786e8c80efa404ec8d}{%
+           family={Lou},
+           familyi={L\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ningbo, China}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{59581038a90166a6d0a340a094f74d37}
+      \strng{fullhash}{59581038a90166a6d0a340a094f74d37}
+      \strng{bibnamehash}{59581038a90166a6d0a340a094f74d37}
+      \strng{authorbibnamehash}{59581038a90166a6d0a340a094f74d37}
+      \strng{authornamehash}{59581038a90166a6d0a340a094f74d37}
+      \strng{authorfullhash}{59581038a90166a6d0a340a094f74d37}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 {International} {Conference} on {Electronics}, {Communications} and {Control} ({ICECC})}
+      \field{isbn}{978-1-4577-0320-1}
+      \field{month}{9}
+      \field{title}{Resource management based on multi-agent technology for cloud manufacturing}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{2821\bibrangedash 2824}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICECC.2011.6067811
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6067811/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6067811/
+      \endverb
+    \endentry
+    \entry{lv_multi-view_2012}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af0ee74317aa5f66c14473c2894cccf5}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Beisheng},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Guilin, China}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{af0ee74317aa5f66c14473c2894cccf5}
+      \strng{fullhash}{af0ee74317aa5f66c14473c2894cccf5}
+      \strng{bibnamehash}{af0ee74317aa5f66c14473c2894cccf5}
+      \strng{authorbibnamehash}{af0ee74317aa5f66c14473c2894cccf5}
+      \strng{authornamehash}{af0ee74317aa5f66c14473c2894cccf5}
+      \strng{authorfullhash}{af0ee74317aa5f66c14473c2894cccf5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 {Third} {International} {Conference} on {Digital} {Manufacturing} \& {Automation}}
+      \field{isbn}{978-1-4673-2217-1 978-0-7695-4772-5}
+      \field{month}{7}
+      \field{title}{A {Multi}-view {Model} {Study} for the {Architecture} of {Cloud} {Manufacturing}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{93\bibrangedash 97}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICDMA.2012.22
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6298262/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6298262/
+      \endverb
+    \endentry
+    \entry{mourad_assessment_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=95c65c8afeb6290c97fd335c4c92ba24}{%
+           family={Mourad},
+           familyi={M\bibinitperiod},
+           given={Mohamed\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aee06f4f71fb601bdbb4525f1a3f6d8b}{%
+           family={Nassehi},
+           familyi={N\bibinitperiod},
+           given={Aydin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a48a57065d5cbd493cc072298dc3d385}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a106a714294b0262574a068e15875fa8}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Stephen\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5b0573b707a8247f8ac28664f3ddfc95}
+      \strng{fullhash}{f5307b8e2144ea6aab45f9f2e9d22d36}
+      \strng{bibnamehash}{5b0573b707a8247f8ac28664f3ddfc95}
+      \strng{authorbibnamehash}{5b0573b707a8247f8ac28664f3ddfc95}
+      \strng{authornamehash}{5b0573b707a8247f8ac28664f3ddfc95}
+      \strng{authorfullhash}{f5307b8e2144ea6aab45f9f2e9d22d36}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07365845}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{month}{2}
+      \field{title}{Assessment of interoperability in cloud manufacturing}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{61}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101832}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.rcim.2019.101832
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/nicolamastrandrea/Zotero/storage/T82BAB7V/Mourad et al. - 2020 - Assessment of interoperability in cloud manufactur.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584518301868
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584518301868
+      \endverb
+    \endentry
+    \entry{oliff_towards_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d760780795f411ddcbeb150dc5640497}{%
+           family={Oliff},
+           familyi={O\bibinitperiod},
+           given={Harley},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=d16056932a393b93367a5223974b55f6}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{76eae85a3b8e601492c8162dbc5b3580}
+      \strng{fullhash}{76eae85a3b8e601492c8162dbc5b3580}
+      \strng{bibnamehash}{76eae85a3b8e601492c8162dbc5b3580}
+      \strng{authorbibnamehash}{76eae85a3b8e601492c8162dbc5b3580}
+      \strng{authornamehash}{76eae85a3b8e601492c8162dbc5b3580}
+      \strng{authorfullhash}{76eae85a3b8e601492c8162dbc5b3580}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{22128271}
+      \field{journaltitle}{Procedia CIRP}
+      \field{shorttitle}{Towards {Industry} 4.0 {Utilizing} {Data}-{Mining} {Techniques}}
+      \field{title}{Towards {Industry} 4.0 {Utilizing} {Data}-{Mining} {Techniques}: {A} {Case} {Study} on {Quality} {Improvement}}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{63}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{167\bibrangedash 172}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.procir.2017.03.311
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/Users/nicolamastrandrea/Zotero/storage/MSHEJRJQ/Oliff and Liu - 2017 - Towards Industry 4.0 Utilizing Data-Mining Techniq.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212827117304997
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212827117304997
+      \endverb
+    \endentry
+    \entry{ren_cloud_2015}{article}{}
+      \name{author}{6}{ul=3}{%
+        {{un=0,uniquepart=base,hash=04c4bc29cb225b393a973fd6ccf6b00e}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=f4149340bc388abb627321731645513a}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=d6f42dd069b0700af390591223ded2fb}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Chun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ae3da4e321faf7d376a8ee16a8272f1}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c99d8810a891d10ea259ed417a7156ea}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinpei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0eaecc04d08e021dcb77a211cf726366}
+      \strng{fullhash}{9e50b161cc47f167245f34d70b3bb96c}
+      \strng{bibnamehash}{0eaecc04d08e021dcb77a211cf726366}
+      \strng{authorbibnamehash}{0eaecc04d08e021dcb77a211cf726366}
+      \strng{authornamehash}{0eaecc04d08e021dcb77a211cf726366}
+      \strng{authorfullhash}{9e50b161cc47f167245f34d70b3bb96c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1751-7575, 1751-7583}
+      \field{journaltitle}{Enterprise Information Systems}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Cloud manufacturing}
+      \field{title}{Cloud manufacturing: from concept to practice}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{186\bibrangedash 209}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/17517575.2013.839055
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/17517575.2013.839055
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/17517575.2013.839055
+      \endverb
+    \endentry
+    \entry{ren_cloud_2017}{article}{}
+      \name{author}{5}{ul=3}{%
+        {{un=0,uniquepart=base,hash=04c4bc29cb225b393a973fd6ccf6b00e}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=65436496e63d7ea35a6bc5c412afdc17}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lihui},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=f4149340bc388abb627321731645513a}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ae3da4e321faf7d376a8ee16a8272f1}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c787d400c3f55e49887700eca1f2adc}
+      \strng{fullhash}{81d61efd180d69cd7f88dd34be636e60}
+      \strng{bibnamehash}{1c787d400c3f55e49887700eca1f2adc}
+      \strng{authorbibnamehash}{1c787d400c3f55e49887700eca1f2adc}
+      \strng{authornamehash}{1c787d400c3f55e49887700eca1f2adc}
+      \strng{authorfullhash}{81d61efd180d69cd7f88dd34be636e60}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0951-192X, 1362-3052}
+      \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shorttitle}{Cloud manufacturing}
+      \field{title}{Cloud manufacturing: key characteristics and applications}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{30}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{501\bibrangedash 515}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/0951192X.2014.902105
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0951192X.2014.902105
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0951192X.2014.902105
+      \endverb
+    \endentry
+    \entry{skulj_decentralised_2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=efd77589ef3f12ad9bd1e508eb5ad6db}{%
+           family={Škulj},
+           familyi={Š\bibinitperiod},
+           given={Gašper},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d13b8f27733e4a7741552a5518a02b94}{%
+           family={Vrabič},
+           familyi={V\bibinitperiod},
+           given={Rok},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1c166c28427442c95a4d12fc447389b}{%
+           family={Butala},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee33a561d5a2265fce6805e2b0696cf8}{%
+           family={Sluga},
+           familyi={S\bibinitperiod},
+           given={Alojzij},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2d9fc08fc5b3b07a627d36750faa35c6}
+      \strng{fullhash}{115232276f86d305877c4ae199973c62}
+      \strng{bibnamehash}{2d9fc08fc5b3b07a627d36750faa35c6}
+      \strng{authorbibnamehash}{2d9fc08fc5b3b07a627d36750faa35c6}
+      \strng{authornamehash}{2d9fc08fc5b3b07a627d36750faa35c6}
+      \strng{authorfullhash}{115232276f86d305877c4ae199973c62}
+      \field{sortinit}{Š}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0951-192X, 1362-3052}
+      \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
+      \field{month}{7}
+      \field{title}{Decentralised network architecture for cloud manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/0951192X.2015.1066861
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0951192X.2015.1066861
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0951192X.2015.1066861
+      \endverb
+    \endentry
+    \entry{souza_virtual_2006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e2b1276316b020329cb8e1cf25808949}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Mariella\bibnamedelimb Consoni\bibnamedelima Florenzano},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cdd78414b6e8988aed8a7443d2051fa}{%
+           family={Sacco},
+           familyi={S\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e69af53b54b2c6e3ce9407987072bd3}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={Arthur\bibnamedelimb José\bibnamedelima Vieira},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \strng{fullhash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \strng{bibnamehash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \strng{authorbibnamehash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \strng{authornamehash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \strng{authorfullhash}{5f56050112c67e5ebee8d96a0e935e3b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0956-5515, 1572-8145}
+      \field{journaltitle}{Journal of Intelligent Manufacturing}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Virtual manufacturing as a way for the factory of the future}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
+      \field{volume}{17}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{725\bibrangedash 735}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s10845-006-0041-1
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10845-006-0041-1
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10845-006-0041-1
+      \endverb
+    \endentry
+    \entry{tao_cloud_2011}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=371067e99ee7cf8a23f810d4c6832c3b}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d96d6fbd106e2ffd88ad23ce0119654}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f92ac231bd4142537fb7e2a8e165b41e}{%
+           family={Venkatesh},
+           familyi={V\bibinitperiod},
+           given={V\bibnamedelima C},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c792eda15a421cf9cc8d73528e9cf458}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36b8986b08f4677ef7ff6ae77e5f89d3}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{517d6b68f33110786dbea932427b9ea4}
+      \strng{fullhash}{cd864c42ee1cc00b458dfe1ede9f56b6}
+      \strng{bibnamehash}{517d6b68f33110786dbea932427b9ea4}
+      \strng{authorbibnamehash}{517d6b68f33110786dbea932427b9ea4}
+      \strng{authornamehash}{517d6b68f33110786dbea932427b9ea4}
+      \strng{authorfullhash}{cd864c42ee1cc00b458dfe1ede9f56b6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0954-4054, 2041-2975}
+      \field{journaltitle}{Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shorttitle}{Cloud manufacturing}
+      \field{title}{Cloud manufacturing: a computing and service-oriented manufacturing model}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{225}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{1969\bibrangedash 1976}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1177/0954405411405575
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0954405411405575
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0954405411405575
+      \endverb
+    \endentry
+    \entry{vincent_wang_interoperable_2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9bbf06500f5d305b0f7a6b6d1a626936}{%
+           family={Vincent\bibnamedelima Wang},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=79da38803e800e7ec6a7569ae501b241}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xun\bibnamedelima W.},
+           giveni={X\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e62d201a73f6e8911bd88af68a2e3287}
+      \strng{fullhash}{e62d201a73f6e8911bd88af68a2e3287}
+      \strng{bibnamehash}{e62d201a73f6e8911bd88af68a2e3287}
+      \strng{authorbibnamehash}{e62d201a73f6e8911bd88af68a2e3287}
+      \strng{authornamehash}{e62d201a73f6e8911bd88af68a2e3287}
+      \strng{authorfullhash}{e62d201a73f6e8911bd88af68a2e3287}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07365845}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{An interoperable solution for {Cloud} manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{232\bibrangedash 247}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.rcim.2013.01.005
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584513000069
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584513000069
+      \endverb
+    \endentry
+    \entry{li_icms_2013}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=f2b41ce6de858e4eb2bcae24c0bd0e4c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xi\bibnamedelima Vincent},
+           giveni={X\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=79da38803e800e7ec6a7569ae501b241}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xun\bibnamedelima W.},
+           giveni={X\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5435508ca0129b59d669d40f3c9783c5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Weidong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3bea31ba061b8955967f646777160b0a}{%
+           family={Mehnen},
+           familyi={M\bibinitperiod},
+           given={Jörn},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Springer London}%
+      }
+      \strng{namehash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{fullhash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{bibnamehash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{authorbibnamehash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{authornamehash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{authorfullhash}{c5eb6a26aea861b18360bbc8fa866ca6}
+      \strng{editorbibnamehash}{d7cdb757065ec088feab40996ac4780f}
+      \strng{editornamehash}{d7cdb757065ec088feab40996ac4780f}
+      \strng{editorfullhash}{d7cdb757065ec088feab40996ac4780f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Cloud {Manufacturing}}
+      \field{isbn}{978-1-4471-4934-7 978-1-4471-4935-4}
+      \field{note}{Series Title: Springer Series in Advanced Manufacturing}
+      \field{shorttitle}{{ICMS}}
+      \field{title}{{ICMS}: {A} {Cloud}-{Based} {Manufacturing} {System}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-1-4471-4935-4_1
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-1-4471-4935-4_1
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-1-4471-4935-4_1
+      \endverb
+    \endentry
+    \entry{model_information_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cedf5233fbedef6aeb129996c76e871a}{%
+           family={Wang\bibnamedelima S},
+           familyi={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Kang\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0,
+           suffix={Chen\bibnamedelima G},
+           suffixi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{cedf5233fbedef6aeb129996c76e871a}
+      \strng{fullhash}{cedf5233fbedef6aeb129996c76e871a}
+      \strng{bibnamehash}{cedf5233fbedef6aeb129996c76e871a}
+      \strng{authorbibnamehash}{cedf5233fbedef6aeb129996c76e871a}
+      \strng{authornamehash}{cedf5233fbedef6aeb129996c76e871a}
+      \strng{authorfullhash}{cedf5233fbedef6aeb129996c76e871a}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1975-9339, 2233-9310}
+      \field{journaltitle}{International Journal of Digital Content Technology and its Applications}
+      \field{month}{10}
+      \field{number}{19}
+      \field{title}{Information {Model} of {Cloud} {Manufacturing} {Resource} {Based} on {Semantic} {Web}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{6}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{339\bibrangedash 346}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.4156/jdcta.vol6.issue19.42
+      \endverb
+      \verb{urlraw}
+      \verb http://www.aicit.org/jdcta/global/paper_detail.html?jname=JDCTA&q=1871
+      \endverb
+      \verb{url}
+      \verb http://www.aicit.org/jdcta/global/paper_detail.html?jname=JDCTA&q=1871
+      \endverb
+    \endentry
+    \entry{wei_product_2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c1d89b1112687aab0def500c9ed1fd46}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66d3c3089bcd7bce5ea942512ee9f7a2}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e58b81d53cc4a659a2107410cc9b5ce}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Peng-Fei},
+           giveni={P\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{765208061524c05c12c809da03b7a816}
+      \strng{fullhash}{765208061524c05c12c809da03b7a816}
+      \strng{bibnamehash}{765208061524c05c12c809da03b7a816}
+      \strng{authorbibnamehash}{765208061524c05c12c809da03b7a816}
+      \strng{authornamehash}{765208061524c05c12c809da03b7a816}
+      \strng{authorfullhash}{765208061524c05c12c809da03b7a816}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2095-3127, 2195-3597}
+      \field{journaltitle}{Advances in Manufacturing}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Product platform architecture for cloud manufacturing}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{331\bibrangedash 343}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s40436-020-00306-1
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/33QBTZJJ/Wei et al. - 2020 - Product platform architecture for cloud manufactur.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s40436-020-00306-1
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s40436-020-00306-1
+      \endverb
+    \endentry
+    \entry{wei_jiang_research_2012}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ad747f8aa0409557502132b68de82f1a}{%
+           family={{Wei Jiang}},
+           familyi={W\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e95408d9415c0d87123e91d37aad0922}{%
+           family={{Jun Ma}},
+           familyi={J\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=984fd0af83c5b1c5150847531f55c3f9}{%
+           family={{Xiu Zhang}},
+           familyi={X\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=953226ec8c33d4d2504f9fa4c5320a34}{%
+           family={{Huan Xie}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing, China}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{1d1df5aa5f257239d4418f02f1b4e1c8}
+      \strng{fullhash}{b528f9b7145b3c9e983451169e65c16d}
+      \strng{bibnamehash}{1d1df5aa5f257239d4418f02f1b4e1c8}
+      \strng{authorbibnamehash}{1d1df5aa5f257239d4418f02f1b4e1c8}
+      \strng{authornamehash}{1d1df5aa5f257239d4418f02f1b4e1c8}
+      \strng{authorfullhash}{b528f9b7145b3c9e983451169e65c16d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 {IEEE} {International} {Conference} on {Computer} {Science} and {Automation} {Engineering}}
+      \field{isbn}{978-1-4673-2008-5 978-1-4673-2007-8 978-1-4673-2006-1}
+      \field{month}{6}
+      \field{title}{Research on cloud manufacturing resource integrating service modeling based on cloud-{Agent}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{395\bibrangedash 398}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICSESS.2012.6269488
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6269488/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6269488/
+      \endverb
+    \endentry
+    \entry{wu_cloud_2013-1}{inproceedings}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3271b23c4a538e42d1bf78cd034967f6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dazhong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=0e6f7263c93a1c6fc8c863f5cbc6e46d}{%
+           family={Greer},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=906c7c4e717678e63e62bb106abf4a24}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a48a57065d5cbd493cc072298dc3d385}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madison, Wisconsin, USA}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Mechanical Engineers}%
+      }
+      \strng{namehash}{65c4d264a3a026280091a032d3d8d7c6}
+      \strng{fullhash}{1ba4c4673bf3907df69c2029603b0e85}
+      \strng{bibnamehash}{65c4d264a3a026280091a032d3d8d7c6}
+      \strng{authorbibnamehash}{65c4d264a3a026280091a032d3d8d7c6}
+      \strng{authornamehash}{65c4d264a3a026280091a032d3d8d7c6}
+      \strng{authorfullhash}{1ba4c4673bf3907df69c2029603b0e85}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cloud Manufacturing (CM) refers to a customer-centric manufacturing model that exploits on-demand access to a shared collection of diversified and distributed manufacturing resources to form temporary, reconfigurable production lines which enhance efficiency, reduce product lifecycle costs, and allow for optimal resource loading in response to variable-demand customer generated tasking. Our objective is to present the drivers, current status of research and development, and future trends of CM. We also discuss the potential short term and long term impacts of CM on various sectors.}
+      \field{booktitle}{Volume 2: {Systems}; {Micro} and {Nano} {Technologies}; {Sustainable} {Manufacturing}}
+      \field{isbn}{978-0-7918-5546-1}
+      \field{month}{6}
+      \field{shorttitle}{Cloud {Manufacturing}}
+      \field{title}{Cloud {Manufacturing}: {Drivers}, {Current} {Status}, and {Future} {Trends}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{V002T02A003}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1115/MSEC2013-1106
+      \endverb
+      \verb{urlraw}
+      \verb https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2013/55461/Madison,%20Wisconsin,%20USA/267722
+      \endverb
+      \verb{url}
+      \verb https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2013/55461/Madison,%20Wisconsin,%20USA/267722
+      \endverb
+    \endentry
+    \entry{wu_cloud_2013}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3271b23c4a538e42d1bf78cd034967f6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dazhong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=16bccd94609ea5b976c6365a1a49f3e6}{%
+           family={Greer},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima John},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=906c7c4e717678e63e62bb106abf4a24}{%
+           family={Rosen},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a48a57065d5cbd493cc072298dc3d385}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{013a394bf7553351ab8ec465a155f2f4}
+      \strng{fullhash}{8e106216a6c4445be9f8de723304303c}
+      \strng{bibnamehash}{013a394bf7553351ab8ec465a155f2f4}
+      \strng{authorbibnamehash}{013a394bf7553351ab8ec465a155f2f4}
+      \strng{authornamehash}{013a394bf7553351ab8ec465a155f2f4}
+      \strng{authorfullhash}{8e106216a6c4445be9f8de723304303c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{02786125}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Cloud manufacturing}
+      \field{title}{Cloud manufacturing: {Strategic} vision and state-of-the-art}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{32}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{564\bibrangedash 579}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jmsy.2013.04.008
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/Users/nicolamastrandrea/Zotero/storage/RN55FWRI/Wu et al. - 2013 - Cloud manufacturing Strategic vision and state-of.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612513000411
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612513000411
+      \endverb
+    \endentry
+    \entry{wu_economic_2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3271b23c4a538e42d1bf78cd034967f6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dazhong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff296989abb5447ddd1639b964467ac8}{%
+           family={Terpenny},
+           familyi={T\bibinitperiod},
+           given={Janis},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd329124186a4606d6b94fdb1db117bf}{%
+           family={Gentzsch},
+           familyi={G\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \strng{fullhash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \strng{bibnamehash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \strng{authorbibnamehash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \strng{authornamehash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \strng{authorfullhash}{b42b8ee13aac8f40513be4d112fdc28e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1087-1357}
+      \field{journaltitle}{Journal of Manufacturing Science and Engineering}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Economic {Benefit} {Analysis} of {Cloud}-{Based} {Design}, {Engineering} {Analysis}, and {Manufacturing}}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{137}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{040903}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1115/1.4030306
+      \endverb
+      \verb{urlraw}
+      \verb http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?doi=10.1115/1.4030306
+      \endverb
+      \verb{url}
+      \verb http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?doi=10.1115/1.4030306
+      \endverb
+    \endentry
+    \entry{xu_cloud_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=43e8043d875498aa78c40bbb8623fb5b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{43e8043d875498aa78c40bbb8623fb5b}
+      \strng{fullhash}{43e8043d875498aa78c40bbb8623fb5b}
+      \strng{bibnamehash}{43e8043d875498aa78c40bbb8623fb5b}
+      \strng{authorbibnamehash}{43e8043d875498aa78c40bbb8623fb5b}
+      \strng{authornamehash}{43e8043d875498aa78c40bbb8623fb5b}
+      \strng{authorfullhash}{43e8043d875498aa78c40bbb8623fb5b}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07365845}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{From cloud computing to cloud manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{28}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{75\bibrangedash 86}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.rcim.2011.07.002
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584511000949
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584511000949
+      \endverb
+    \endentry
+    \entry{yy_yusuf_agile_1999}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6490ae488d996b7b34ad2aa36d07e405}{%
+           family={{Y.Y Yusuf}},
+           familyi={Y\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2610eb2dda8e73e1d31374fc5d887d79}{%
+           family={Sarhadi},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b6655400f35c39cbc28136dc0f82744}{%
+           family={Gunasekaran},
+           familyi={G\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \strng{fullhash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \strng{bibnamehash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \strng{authorbibnamehash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \strng{authornamehash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \strng{authorfullhash}{3afe037fdc4e57d8575909e8a3c76fef}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Agile manufacturing, a recently popularised concept, has been advocated as the 21st century manufacturing paradigm. It is seen as the winning strategy to be adopted by manufacturers bracing themselves for dramatic performance enhancements to become national and international leaders in an increasingly competitive market of fast changing customer requirements. This paper identifies the drivers of agility and discusses the portfolio of competitive advantages that have emerged over time as a result of the changing requirements of manufacturing. The need to achieve the competitive advantages of manufacturing in synergy and without trade-offs is fundamental to the agile paradigm. To further the understanding of agility, this paper reviews the meaning of agility from different perspectives and suggests a comprehensive definition which can be adopted as a working definition by practitioners. Four underlining concepts of agility has emerged from the working definition and the paper presents a representation of these concepts and their interactions. Finally, the paper highlights some of the key enablers of agility and identifies potential future research directions}
+      \field{issn}{0925-5273}
+      \field{journaltitle}{International Journal of Production Economics}
+      \field{number}{1-2}
+      \field{title}{Agile manufacturing: {The} drivers, concepts and attributes}
+      \field{volume}{62}
+      \field{year}{1999}
+      \field{pages}{33\bibrangedash 43}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/S0925-5273(98)00219-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925527398002199
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925527398002199
+      \endverb
+    \endentry
+    \entry{zhang_cloud_2014}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=956f38d703db5557936abb5275c57159}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Yongliang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4149340bc388abb627321731645513a}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35e902ae7e14c6a8f96ff9c235c31395}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bo\bibnamedelima Hu},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04c4bc29cb225b393a973fd6ccf6b00e}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88727e7bd52a379bb71b21274fd19147}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xuesong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4a76a837dd18ff55753e445c8ce241d}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=554d865c535391a372a4c52628646ee4}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3212c73273c920c4c65a5697375eb8f2}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Anrui},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4409a33e36be337e42ca1156f9f9a79}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yongkui},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{28657ed324e41f2c879d1bf29d4788c0}
+      \strng{fullhash}{23b0beb38ad0ac8972c125aa8c23a2b0}
+      \strng{bibnamehash}{28657ed324e41f2c879d1bf29d4788c0}
+      \strng{authorbibnamehash}{28657ed324e41f2c879d1bf29d4788c0}
+      \strng{authornamehash}{28657ed324e41f2c879d1bf29d4788c0}
+      \strng{authorfullhash}{23b0beb38ad0ac8972c125aa8c23a2b0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1751-7575, 1751-7583}
+      \field{journaltitle}{Enterprise Information Systems}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shorttitle}{Cloud manufacturing}
+      \field{title}{Cloud manufacturing: a new manufacturing paradigm}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{167\bibrangedash 187}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/17517575.2012.683812
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/17517575.2012.683812
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/17517575.2012.683812
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
