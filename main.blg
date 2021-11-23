@@ -1,19 +1,20 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'main.blg'
-[49] biber-darwin:340> INFO - === Mon Nov 22, 2021, 17:23:38
-[60] Biber.pm:415> INFO - Reading 'main.bcf'
-[128] Biber.pm:952> INFO - Found 33 citekeys in bib section 0
-[140] Biber.pm:4340> INFO - Processing section 0
-[147] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
-[151] bibtex.pm:1689> INFO - LaTeX decoding ...
-[262] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
-[404] Utils.pm:395> WARN - ISBN '978-1-4673-2008-5 978-1-4673-2007-8 978-1-4673-2006-1' in entry 'wei_jiang_research_2012' is invalid - run biber with '--validate_datamodel' for details.
-[409] Utils.pm:395> WARN - ISBN '978-1-4471-4934-7 978-1-4471-4935-4' in entry 'li_icms_2013' is invalid - run biber with '--validate_datamodel' for details.
-[414] Utils.pm:395> WARN - ISBN '978-1-4673-2217-1 978-0-7695-4772-5' in entry 'lv_multi-view_2012' is invalid - run biber with '--validate_datamodel' for details.
-[479] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[479] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[479] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[479] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[510] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[535] bbl.pm:757> INFO - Output to main.bbl
-[535] Biber.pm:128> INFO - WARNINGS: 3
+[55] biber-darwin:340> INFO - === Tue Nov 23, 2021, 11:01:12
+[68] Biber.pm:415> INFO - Reading 'main.bcf'
+[143] Biber.pm:952> INFO - Found 63 citekeys in bib section 0
+[155] Biber.pm:4340> INFO - Processing section 0
+[163] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[168] bibtex.pm:1689> INFO - LaTeX decoding ...
+[280] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[430] Utils.pm:395> WARN - ISBN '978-1-4673-2008-5 978-1-4673-2007-8 978-1-4673-2006-1' in entry 'wei_jiang_research_2012' is invalid - run biber with '--validate_datamodel' for details.
+[434] Utils.pm:395> WARN - ISBN '978-1-4471-4934-7 978-1-4471-4935-4' in entry 'li_icms_2013' is invalid - run biber with '--validate_datamodel' for details.
+[438] Utils.pm:395> WARN - ISBN '978-1-4673-2217-1 978-0-7695-4772-5' in entry 'lv_multi-view_2012' is invalid - run biber with '--validate_datamodel' for details.
+[483] Utils.pm:395> WARN - ISBN '978-1-4799-0421-1 978-1-4799-0419-8' in entry 'guizzi_integrating_2013' is invalid - run biber with '--validate_datamodel' for details.
+[657] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[657] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[657] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[657] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[716] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[760] bbl.pm:757> INFO - Output to main.bbl
+[761] Biber.pm:128> INFO - WARNINGS: 4

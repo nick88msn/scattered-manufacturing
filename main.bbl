@@ -80,6 +80,143 @@
       \verb https://asmedigitalcollection.asme.org/MSEC/proceedings/MSEC2013/55461/Madison,%20Wisconsin,%20USA/267740
       \endverb
     \endentry
+    \entry{adamson_cloud_2015}{article}{}
+      \name{author}{4}{ul=4}{%
+        {{un=0,uniquepart=base,hash=c58c79155ce98e2e614c6db80f7b9d9f}{%
+           family={Adamson},
+           familyi={A\bibinitperiod},
+           given={Göran},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=65436496e63d7ea35a6bc5c412afdc17}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lihui},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=71838bf6cff4cb01af6302a1bbb23d5f}{%
+           family={Holm},
+           familyi={H\bibinitperiod},
+           given={Magnus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66aeb2f1fec4c2b28a511883bd318536}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \strng{fullhash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \strng{bibnamehash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \strng{authorbibnamehash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \strng{authornamehash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \strng{authorfullhash}{81bcd43ca614165a191b0c2ce8c8fb8c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0951-192X, 1362-3052}
+      \field{journaltitle}{International Journal of Computer Integrated Manufacturing}
+      \field{month}{4}
+      \field{title}{Cloud manufacturing – a critical review of recent development and future trends}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1080/0951192X.2015.1031704
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0951192X.2015.1031704
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/0951192X.2015.1031704
+      \endverb
+    \endentry
+    \entry{cha_multi-agent_2015}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b230c6f9539d069fc8b7987cae42d439}{%
+           family={Cha},
+           familyi={C\bibinitperiod},
+           given={Hee-Jun},
+           giveni={H\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7293eba1fb17aa7a041af485f0208bc8}{%
+           family={Won},
+           familyi={W\bibinitperiod},
+           given={Dong-Jun},
+           giveni={D\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a9a38846cd7f515875e45e419dcd8f4}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sang-Hyuk},
+           giveni={S\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a1c1a7159b393b7728bc9ca0638b8d0}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Il-Yop},
+           giveni={I\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9f6697232e769f332a7239279548051}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Byung-Moon},
+           giveni={B\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{296c14d281a0e0bef3a0f0fe92b5a988}
+      \strng{fullhash}{d3d0da0b4d418ea9f0f185a31c44f10b}
+      \strng{bibnamehash}{296c14d281a0e0bef3a0f0fe92b5a988}
+      \strng{authorbibnamehash}{296c14d281a0e0bef3a0f0fe92b5a988}
+      \strng{authornamehash}{296c14d281a0e0bef3a0f0fe92b5a988}
+      \strng{authorfullhash}{d3d0da0b4d418ea9f0f185a31c44f10b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1996-1073}
+      \field{journaltitle}{Energies}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Multi-{Agent} {System}-{Based} {Microgrid} {Operation} {Strategy} for {Demand} {Response}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{14272\bibrangedash 14286}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3390/en81212430
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/L4IMWBEH/Cha et al. - 2015 - Multi-Agent System-Based Microgrid Operation Strat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1996-1073/8/12/12430
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1996-1073/8/12/12430
+      \endverb
+    \endentry
     \entry{chen_data_2015}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=76d2a0c3861b383bfabec56e48139137}{%
@@ -198,6 +335,189 @@
       \field{title}{Challenges and Trends in Distributed Manufacturing Systems: Are wise engineering systems the ultimate answer?}
       \field{year}{2009}
     \endentry
+    \entry{daniello_self-regulated_2018}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=4eece69cae581b8dc2f0bdccdce264ed}{%
+           family={D’Aniello},
+           familyi={D\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=d0aaf580a9c4b677171239c10efbcff4}{%
+           family={Gaeta},
+           familyi={G\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=25294d572bb272b29cea6fcb4adb8864}{%
+           family={Gaeta},
+           familyi={G\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b14e57b05fc0e9fa4f8768349a79811}{%
+           family={Tomasiello},
+           familyi={T\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1e14c5f113258d3f9af85354191600ad}
+      \strng{fullhash}{723e421de324833c691ba784157d472c}
+      \strng{bibnamehash}{1e14c5f113258d3f9af85354191600ad}
+      \strng{authorbibnamehash}{1e14c5f113258d3f9af85354191600ad}
+      \strng{authornamehash}{1e14c5f113258d3f9af85354191600ad}
+      \strng{authorfullhash}{723e421de324833c691ba784157d472c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1868-5137, 1868-5145}
+      \field{journaltitle}{Journal of Ambient Intelligence and Humanized Computing}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Self-regulated learning with approximate reasoning and situation awareness}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 164}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s12652-016-0423-y
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s12652-016-0423-y
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s12652-016-0423-y
+      \endverb
+    \endentry
+    \entry{daniello_multi-agent_2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4eece69cae581b8dc2f0bdccdce264ed}{%
+           family={D’Aniello},
+           familyi={D\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81fec9a99cf20812e561379914b85318}{%
+           family={Loia},
+           familyi={L\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e637da54eefadf6deca20ec20f849e02}{%
+           family={Orciuoli},
+           familyi={O\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{0df7249057ac9e614e84e4237c4de1aa}
+      \strng{fullhash}{0df7249057ac9e614e84e4237c4de1aa}
+      \strng{bibnamehash}{0df7249057ac9e614e84e4237c4de1aa}
+      \strng{authorbibnamehash}{0df7249057ac9e614e84e4237c4de1aa}
+      \strng{authornamehash}{0df7249057ac9e614e84e4237c4de1aa}
+      \strng{authorfullhash}{0df7249057ac9e614e84e4237c4de1aa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15684946}
+      \field{journaltitle}{Applied Soft Computing}
+      \field{month}{5}
+      \field{title}{A multi-agent fuzzy consensus model in a {Situation} {Awareness} framework}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{30}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{430\bibrangedash 440}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.asoc.2015.01.061
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1568494615000824
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1568494615000824
+      \endverb
+    \endentry
+    \entry{de_falco_negotiating_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8fd850c4b168b9d097771b48666cdde1}{%
+           family={De\bibnamedelima Falco},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c8224f68b3eb7b6d488d8cebc3e083}{%
+           family={Rarità},
+           familyi={R\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e544a7870b556286d1a23b3dead179cd}{%
+           family={Alalawin},
+           familyi={A\bibinitperiod},
+           given={Abdallah\bibnamedelima Asan},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{19b32ec9f8445c1e31997f247a0c3697}
+      \strng{fullhash}{19b32ec9f8445c1e31997f247a0c3697}
+      \strng{bibnamehash}{19b32ec9f8445c1e31997f247a0c3697}
+      \strng{authorbibnamehash}{19b32ec9f8445c1e31997f247a0c3697}
+      \strng{authornamehash}{19b32ec9f8445c1e31997f247a0c3697}
+      \strng{authorfullhash}{19b32ec9f8445c1e31997f247a0c3697}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper focuses on dynamics of productive and demanding nodes for Scattered Manufacturing Networks within 3D Printings contexts. The various nodes issue orders or sell production slots in order to achieve their own aims. An orchestrator coordinates the dynamics along the network according to principles of sustainability, equated shared resources and transparency by managing communication activities among nodes. In particular, suitable tradeoffs occur by a unique framework that, with the aim of optimizing the overall costs, suggests either logistics paths along the network or negotiation policies among nodes in order to reallocate resources. Numerical examples present the proposed approach. Keywords: Industry 4.0, Additive Manufacturing, Sharing Capacities, Operation Models, Optimization of networks JEL Codes:  C02; O21 and P40}
+      \field{issn}{2523-6547}
+      \field{journaltitle}{International Conference on Advances in Business, Management and Law (ICABML) 2017}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Negotiating and {Sharing} {Capacities} of {Large} {Additive} {Manufacturing} {Networks}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{440\bibrangedash 466}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.30585/icabml-cp.v1i1.37
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/JYVPSB8L/De Falco et al. - 2017 - Negotiating and Sharing Capacities of Large Additi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://publications.ud.ac.ae/index.php/ICABML-CP/article/view/37
+      \endverb
+      \verb{url}
+      \verb http://publications.ud.ac.ae/index.php/ICABML-CP/article/view/37
+      \endverb
+    \endentry
     \entry{ding_cloud-based_2012}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=18674502f0a27a6a6a047b9618953d49}{%
@@ -255,6 +575,69 @@
       \endverb
       \verb{url}
       \verb https://www.scialert.net/abstract/?doi=itj.2012.1258.1264
+      \endverb
+    \endentry
+    \entry{de_falco_integrating_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fc9d4b9b87bff63f4db6b4692bce2a3b}{%
+           family={Falco},
+           familyi={F\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=28ec4edc42828e38f3a83f2f49039fad}{%
+           family={Mastrandrea},
+           familyi={M\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75c8224f68b3eb7b6d488d8cebc3e083}{%
+           family={Rarità},
+           familyi={R\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \strng{fullhash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \strng{bibnamehash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \strng{authorbibnamehash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \strng{authornamehash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \strng{authorfullhash}{175523a2454eca2b5cfdf41ed36df4f7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23519789}
+      \field{journaltitle}{Procedia Manufacturing}
+      \field{title}{Integrating {Capacity} and {Logistics} of {Large} {Additive} {Manufacturing} {Networks}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{39}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1421\bibrangedash 1427}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.promfg.2020.01.310
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/6HWAMCVX/de Falco et al. - 2019 - Integrating Capacity and Logistics of Large Additi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2351978920303772
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2351978920303772
       \endverb
     \endentry
     \entry{fisher_cloud_2018}{article}{}
@@ -335,6 +718,337 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612518300384
       \endverb
+    \endentry
+    \entry{gaeta_generalized_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=25294d572bb272b29cea6fcb4adb8864}{%
+           family={Gaeta},
+           familyi={G\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=81fec9a99cf20812e561379914b85318}{%
+           family={Loia},
+           familyi={L\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b14e57b05fc0e9fa4f8768349a79811}{%
+           family={Tomasiello},
+           familyi={T\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a418a70a106818ffeaf310a62e32d63f}
+      \strng{fullhash}{a418a70a106818ffeaf310a62e32d63f}
+      \strng{bibnamehash}{a418a70a106818ffeaf310a62e32d63f}
+      \strng{authorbibnamehash}{a418a70a106818ffeaf310a62e32d63f}
+      \strng{authornamehash}{a418a70a106818ffeaf310a62e32d63f}
+      \strng{authorfullhash}{a418a70a106818ffeaf310a62e32d63f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{08848173}
+      \field{journaltitle}{International Journal of Intelligent Systems}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shorttitle}{A {Generalized} {Functional} {Network} for a {Classifier}-{Quantifiers} {Scheme} in a {Gas}-{Sensing} {System}}
+      \field{title}{A {Generalized} {Functional} {Network} for a {Classifier}-{Quantifiers} {Scheme} in a {Gas}-{Sensing} {System}: {CLASSIFIER}-{QUANTIFIERS} {SCHEME} {IN} {GAS}-{SENSING} {SYSTEM}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{28}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{988\bibrangedash 1009}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1002/int.21613
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/int.21613
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/int.21613
+      \endverb
+    \endentry
+    \entry{goran_advanced_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=898b24683e677298f6be5bd301360f40}{%
+           family={Goran},
+           familyi={G\bibinitperiod},
+           given={Putnik},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{898b24683e677298f6be5bd301360f40}
+      \strng{fullhash}{898b24683e677298f6be5bd301360f40}
+      \strng{bibnamehash}{898b24683e677298f6be5bd301360f40}
+      \strng{authorbibnamehash}{898b24683e677298f6be5bd301360f40}
+      \strng{authornamehash}{898b24683e677298f6be5bd301360f40}
+      \strng{authorfullhash}{898b24683e677298f6be5bd301360f40}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1451-4117}
+      \field{journaltitle}{Istraivanja i projektovanja za privredu}
+      \field{number}{3}
+      \field{shorttitle}{Advanced manufacturing systems and enterprises}
+      \field{title}{Advanced manufacturing systems and enterprises: {Cloud} and ubiquitous manufacturing and an architecture}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{10}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{127\bibrangedash 134}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.5937/jaes10-2511
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/AEKDG9TA/Goran - 2012 - Advanced manufacturing systems and enterprises Cl.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://scindeks.ceon.rs/Article.aspx?artid=1451-41171203127P
+      \endverb
+      \verb{url}
+      \verb http://scindeks.ceon.rs/Article.aspx?artid=1451-41171203127P
+      \endverb
+    \endentry
+    \entry{guizzi_integrating_2013}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7384530b5ccffda5d47e800f010942bb}{%
+           family={Guizzi},
+           familyi={G\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065b80bcb3941b8fa9eb2b4a029c0f51}{%
+           family={Murino},
+           familyi={M\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=150379c04038efd9f44d2792ff17c6b4}{%
+           family={Santini},
+           familyi={S\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1b89d9c4453b55c2d2c87aa3590f7c6}{%
+           family={Tufo},
+           familyi={T\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90b26877d04903198137f6e682ef9ca6}{%
+           family={Romano},
+           familyi={R\bibinitperiod},
+           given={Elpidio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Budapest, Hungary}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{152b3478af42a34fef6f56bb41d69de6}
+      \strng{fullhash}{fcdf404f19e8c182c6b8864d46ab30b5}
+      \strng{bibnamehash}{152b3478af42a34fef6f56bb41d69de6}
+      \strng{authorbibnamehash}{152b3478af42a34fef6f56bb41d69de6}
+      \strng{authornamehash}{152b3478af42a34fef6f56bb41d69de6}
+      \strng{authorfullhash}{fcdf404f19e8c182c6b8864d46ab30b5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 {IEEE} 12th {International} {Conference} on {Intelligent} {Software} {Methodologies}, {Tools} and {Techniques} ({SoMeT})}
+      \field{isbn}{978-1-4799-0421-1 978-1-4799-0419-8}
+      \field{month}{9}
+      \field{title}{Integrating model to support decision making}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{127\bibrangedash 133}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/SoMeT.2013.6645653
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/6645653/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/6645653/
+      \endverb
+    \endentry
+    \entry{gutin2006traveling}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b4255bc762b4573d1e0ed042a11a8cd5}{%
+           family={Gutin},
+           familyi={G\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=181727ad55659ac86a70978053e626db}{%
+           family={Punnen},
+           familyi={P\bibinitperiod},
+           given={Abraham\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \strng{fullhash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \strng{bibnamehash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \strng{authorbibnamehash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \strng{authornamehash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \strng{authorfullhash}{43b14b6815ab88cd7252c15bbb79d1ec}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The traveling salesman problem and its variations}
+      \field{volume}{12}
+      \field{year}{2006}
+    \endentry
+    \entry{gutin_traveling_2002}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b4255bc762b4573d1e0ed042a11a8cd5}{%
+           family={Gutin},
+           familyi={G\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba1f70b417b1858d5666a962267324be}{%
+           family={Yeo},
+           familyi={Y\bibinitperiod},
+           given={Anders},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddfc99ba75f092d469a23aee108e3557}{%
+           family={Zverovich},
+           familyi={Z\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \strng{fullhash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \strng{bibnamehash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \strng{authorbibnamehash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \strng{authornamehash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \strng{authorfullhash}{75d46074ca322c5f78b2ee9fd4ffa02a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0166218X}
+      \field{journaltitle}{Discrete Applied Mathematics}
+      \field{month}{3}
+      \field{number}{1-3}
+      \field{shorttitle}{Traveling salesman should not be greedy}
+      \field{title}{Traveling salesman should not be greedy: domination analysis of greedy-type heuristics for the {TSP}}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{117}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{81\bibrangedash 86}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0166-218X(01)00195-0
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0166218X01001950
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0166218X01001950
+      \endverb
+    \endentry
+    \entry{haj2019view}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f38ffbe4f1e57086907729e8357603f2}{%
+           family={Haj-Ali},
+           familyi={H\bibinithyphendelim A\bibinitperiod},
+           given={Ameer},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b29b659629068c77fb375c338f11a2b4}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Nesreen\bibnamedelima K},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c749ff9069e786c396825a97258b1d7}{%
+           family={Willke},
+           familyi={W\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa1b97983892cfef89de6a1b63f97bcc}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab8b3b256286cedf287deca6326c7db0}{%
+           family={Asanovic},
+           familyi={A\bibinitperiod},
+           given={Krste},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f899e1af77766be27b89b27e52d146cd}
+      \strng{fullhash}{71b401d680d94dbd73426d77cd49fca8}
+      \strng{bibnamehash}{f899e1af77766be27b89b27e52d146cd}
+      \strng{authorbibnamehash}{f899e1af77766be27b89b27e52d146cd}
+      \strng{authornamehash}{f899e1af77766be27b89b27e52d146cd}
+      \strng{authorfullhash}{71b401d680d94dbd73426d77cd49fca8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint 190801275}
+      \field{title}{A view on deep reinforcement learning in system optimization}
+      \field{year}{2019}
     \endentry
     \entry{hauder_optimization_2017}{inproceedings}{}
       \name{author}{4}{}{%
@@ -529,6 +1243,106 @@
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
     \endentry
+    \entry{karnouskos_key_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2f9c1a8a8f3667184ed88fce2f2e85d9}{%
+           family={Karnouskos},
+           familyi={K\bibinitperiod},
+           given={Stamatis},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e866cb52c4875216fd1a4c7377f91c}{%
+           family={Leitao},
+           familyi={L\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{357590a59ca7ba6f429f6e3822c79aba}
+      \strng{fullhash}{357590a59ca7ba6f429f6e3822c79aba}
+      \strng{bibnamehash}{357590a59ca7ba6f429f6e3822c79aba}
+      \strng{authorbibnamehash}{357590a59ca7ba6f429f6e3822c79aba}
+      \strng{authornamehash}{357590a59ca7ba6f429f6e3822c79aba}
+      \strng{authorfullhash}{357590a59ca7ba6f429f6e3822c79aba}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1551-3203, 1941-0050}
+      \field{journaltitle}{IEEE Transactions on Industrial Informatics}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Key {Contributing} {Factors} to the {Acceptance} of {Agents} in {Industrial} {Environments}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{696\bibrangedash 703}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/TII.2016.2607148
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/5IXTYSB9/Karnouskos and Leitao - 2017 - Key Contributing Factors to the Acceptance of Agen.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7563318/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7563318/
+      \endverb
+    \endentry
+    \entry{karp_patching_1979}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5290385c419686f6312edeb3578dc9cf}{%
+           family={Karp},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{fullhash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{bibnamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authorbibnamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authornamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authorfullhash}{5290385c419686f6312edeb3578dc9cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0097-5397, 1095-7111}
+      \field{journaltitle}{SIAM Journal on Computing}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{A {Patching} {Algorithm} for the {Nonsymmetric} {Traveling}-{Salesman} {Problem}}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{8}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{561\bibrangedash 573}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1137/0208045
+      \endverb
+      \verb{urlraw}
+      \verb http://epubs.siam.org/doi/10.1137/0208045
+      \endverb
+      \verb{url}
+      \verb http://epubs.siam.org/doi/10.1137/0208045
+      \endverb
+    \endentry
     \entry{kayabay_wip_2018}{inproceedings}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=32b7a0d2f9f5b85275a4a85c8eb7b81b}{%
@@ -593,6 +1407,63 @@
       \endverb
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/8599583/
+      \endverb
+    \endentry
+    \entry{kaynak_cloud_2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=be8e20788b0ec58eb88c9b78b895e1c0}{%
+           family={Kaynak},
+           familyi={K\bibinitperiod},
+           given={Baran},
+           giveni={B\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=c1d4adfcfece171f2e8e12db310fefe6}{%
+           family={Kaynak},
+           familyi={K\bibinitperiod},
+           given={Sumeyye},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=fe3c441e1796b8e428b861f159042422}{%
+           family={Uygun},
+           familyi={U\bibinitperiod},
+           given={Ozer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ac27c17931593f83ea40fd58b8ce463}
+      \strng{fullhash}{1ac27c17931593f83ea40fd58b8ce463}
+      \strng{bibnamehash}{1ac27c17931593f83ea40fd58b8ce463}
+      \strng{authorbibnamehash}{1ac27c17931593f83ea40fd58b8ce463}
+      \strng{authornamehash}{1ac27c17931593f83ea40fd58b8ce463}
+      \strng{authorfullhash}{1ac27c17931593f83ea40fd58b8ce463}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Cloud {Manufacturing} {Architecture} {Based} on {Public} {Blockchain} {Technology}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{2163\bibrangedash 2177}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2019.2962232
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/79RDXUAL/Kaynak et al. - 2020 - Cloud Manufacturing Architecture Based on Public B.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8943230/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8943230/
       \endverb
     \endentry
     \entry{khajavi_additive_2014}{article}{}
@@ -717,6 +1588,52 @@
       \endverb
       \verb{url}
       \verb http://link.springer.com/10.1007/s00170-012-3939-0
+      \endverb
+    \endentry
+    \entry{traveling_salesman_comp_study}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6e2e92a3e1619c0eb372733ac57cbf32}{%
+           family={Lenstra},
+           familyi={L\bibinitperiod},
+           given={Jan\bibnamedelima Karel},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3215536e101455ab568a272a316fb25b}{%
+           family={Shmoys},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Society for Industrial}%
+        {Applied Mathematics}%
+      }
+      \strng{namehash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \strng{fullhash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \strng{bibnamehash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \strng{authorbibnamehash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \strng{authornamehash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \strng{authorfullhash}{862ba727335ca93e0c4dcf7acc08cde9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00361445, 10957200}
+      \field{journaltitle}{SIAM Review}
+      \field{number}{4}
+      \field{title}{The Traveling Salesman Problem: A Computational Study}
+      \field{volume}{51}
+      \field{year}{2009}
+      \field{pages}{799\bibrangedash 801}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/25662349
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/25662349
       \endverb
     \endentry
     \entry{lim_theory_2020}{article}{}
@@ -909,6 +1826,249 @@
       \verb http://ieeexplore.ieee.org/document/6067811/
       \endverb
     \endentry
+    \entry{liu_cyber-physical_2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=a4f9fe903ec10dd941ee763df47cd4ee}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaoqing\bibnamedelima F.},
+           giveni={X\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3f836ec1bcc8b0f0f14148c81f960e5a}{%
+           family={Shahriar},
+           familyi={S\bibinitperiod},
+           given={Md\bibnamedelima Rakib},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c3e75f16360e78c7d4c40dd2f2e5d19}{%
+           family={Al\bibnamedelima Sunny},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={S.M.\bibnamedelimi Nahian},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a66ecbfb1d75237a5a915f357e355b0c}{%
+           family={Leu},
+           familyi={L\bibinitperiod},
+           given={Ming\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0287821ffc85688789efccb54a5ca4f}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Liwen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bce87628ef7e204fe64a07caf15e3506}
+      \strng{fullhash}{bd0bec22bc6d52f23ec87a86df9e7a23}
+      \strng{bibnamehash}{bce87628ef7e204fe64a07caf15e3506}
+      \strng{authorbibnamehash}{bce87628ef7e204fe64a07caf15e3506}
+      \strng{authornamehash}{bce87628ef7e204fe64a07caf15e3506}
+      \strng{authorfullhash}{bd0bec22bc6d52f23ec87a86df9e7a23}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{02786125}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{month}{4}
+      \field{shorttitle}{Cyber-physical manufacturing cloud}
+      \field{title}{Cyber-physical manufacturing cloud: {Architecture}, virtualization, communication, and testbed}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{43}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{352\bibrangedash 364}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jmsy.2017.04.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612517300432
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0278612517300432
+      \endverb
+    \endentry
+    \entry{liu_workload-based_2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=2,uniquepart=given,hash=e4409a33e36be337e42ca1156f9f9a79}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yongkui},
+           giveni={Y\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=43e8043d875498aa78c40bbb8623fb5b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83ecf503e9f7bab960ff39352d9ae1ae}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41aa48b0dd6f721c87a6463fd60fecf4}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Ray\bibnamedelima Y.},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cf3f7ec21c180cb0419c3b84f4c7163c}
+      \strng{fullhash}{ce43fe1706d02dec1c946846022e1648}
+      \strng{bibnamehash}{cf3f7ec21c180cb0419c3b84f4c7163c}
+      \strng{authorbibnamehash}{cf3f7ec21c180cb0419c3b84f4c7163c}
+      \strng{authornamehash}{cf3f7ec21c180cb0419c3b84f4c7163c}
+      \strng{authorfullhash}{ce43fe1706d02dec1c946846022e1648}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{07365845}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{month}{6}
+      \field{title}{Workload-based multi-task scheduling in cloud manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{45}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{3\bibrangedash 20}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.rcim.2016.09.008
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584516303210
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584516303210
+      \endverb
+    \endentry
+    \entry{loia_using_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=81fec9a99cf20812e561379914b85318}{%
+           family={Loia},
+           familyi={L\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b14e57b05fc0e9fa4f8768349a79811}{%
+           family={Tomasiello},
+           familyi={T\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40325c9a3d98c5800e14f986b3783b17}{%
+           family={Vaccaro},
+           familyi={V\bibinitperiod},
+           given={Alfredo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \strng{fullhash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \strng{bibnamehash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \strng{authorbibnamehash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \strng{authornamehash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \strng{authorfullhash}{cb936fb6a2673b04adae3e63d4d6ac7e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00200255}
+      \field{journaltitle}{Information Sciences}
+      \field{month}{5}
+      \field{title}{Using fuzzy transform in multi-agent based monitoring of smart grids}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{388-389}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{209\bibrangedash 224}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.ins.2017.01.022
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S002002551730097X
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S002002551730097X
+      \endverb
+    \endentry
+    \entry{lopes_negotiation_2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0a9b61edf21193ccf21ffa60c3d76c9d}{%
+           family={Lopes},
+           familyi={L\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=552f2b80490cc3ccf7378600302c0eed}{%
+           family={Wooldridge},
+           familyi={W\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=b33556867463f6262c70df7770f70bef}{%
+           family={Novais},
+           familyi={N\bibinitperiod},
+           given={A.Q.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \strng{fullhash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \strng{bibnamehash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \strng{authorbibnamehash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \strng{authornamehash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \strng{authorfullhash}{52c2b8e72fdb862ceaab28b8095066a6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{month}{7}
+      \field{title}{Negotiation among autonomous computational agents: principles, analysis and challenges.}
+      \field{volume}{29}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 44}
+      \range{pages}{44}
+      \verb{doi}
+      \verb doi.org/10.1007/s10462-009-9107-8
+      \endverb
+    \endentry
     \entry{lv_multi-view_2012}{inproceedings}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af0ee74317aa5f66c14473c2894cccf5}{%
@@ -955,6 +2115,102 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/6298262/
+      \endverb
+    \endentry
+    \entry{masad2015mesa}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=61250700d8d669a1b176f85e75d94fce}{%
+           family={Masad},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=272607ad0179179284bbcfb0c4f064fa}{%
+           family={Kazil},
+           familyi={K\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{d58cd26c9d59b2c8d753ef5113000431}
+      \strng{fullhash}{d58cd26c9d59b2c8d753ef5113000431}
+      \strng{bibnamehash}{d58cd26c9d59b2c8d753ef5113000431}
+      \strng{authorbibnamehash}{d58cd26c9d59b2c8d753ef5113000431}
+      \strng{authornamehash}{d58cd26c9d59b2c8d753ef5113000431}
+      \strng{authorfullhash}{d58cd26c9d59b2c8d753ef5113000431}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{14th PYTHON in Science Conference}
+      \field{title}{MESA: an agent-based modeling framework}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{53\bibrangedash 60}
+      \range{pages}{8}
+    \endentry
+    \entry{mladineo_solving_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=386920ba057e9e437a449a204df82ec3}{%
+           family={Mladineo},
+           familyi={M\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f57a06abac6d508b15b2329fda8e222}{%
+           family={Veza},
+           familyi={V\bibinitperiod},
+           given={Ivica},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=584ec691977503c8228a8e672e05b4ea}{%
+           family={Gjeldum},
+           familyi={G\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \strng{fullhash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \strng{bibnamehash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \strng{authorbibnamehash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \strng{authornamehash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \strng{authorfullhash}{b1d498266b4b0938b15c6da982e5aa7a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-7543, 1366-588X}
+      \field{journaltitle}{International Journal of Production Research}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{Solving partner selection problem in cyber-physical production networks using the {HUMANT} algorithm}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{2506\bibrangedash 2521}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/00207543.2016.1234084
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1234084
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/00207543.2016.1234084
       \endverb
     \endentry
     \entry{mourad_assessment_2020}{article}{}
@@ -1024,6 +2280,129 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584518301868
       \endverb
     \endentry
+    \entry{mourtzis_design_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5bbcc8fc2b786d9abf714b2931932bff}{%
+           family={Mourtzis},
+           familyi={M\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39fa56945c8af4a9b5fd83fe04ce611e}{%
+           family={Doukas},
+           familyi={D\bibinitperiod},
+           given={Michalis},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d622d5597ed2b88ada44d508f51cc586}{%
+           family={Psarommatis},
+           familyi={P\bibinitperiod},
+           given={Foivos},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4cc546889d474bf48cbbaec832c5c40f}
+      \strng{fullhash}{4cc546889d474bf48cbbaec832c5c40f}
+      \strng{bibnamehash}{4cc546889d474bf48cbbaec832c5c40f}
+      \strng{authorbibnamehash}{4cc546889d474bf48cbbaec832c5c40f}
+      \strng{authornamehash}{4cc546889d474bf48cbbaec832c5c40f}
+      \strng{authorfullhash}{4cc546889d474bf48cbbaec832c5c40f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00078506}
+      \field{journaltitle}{CIRP Annals}
+      \field{number}{1}
+      \field{title}{Design and operation of manufacturing networks for mass customisation}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{62}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{467\bibrangedash 470}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.cirp.2013.03.126
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007850613001273
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007850613001273
+      \endverb
+    \endentry
+    \entry{nagorny_big_2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4949b8398811a8a9e9b08be948ebcc9f}{%
+           family={Nagorny},
+           familyi={N\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b220dbc2e8f8cac39d611a30860bb35}{%
+           family={Lima-Monteiro},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d18972a5e8839ce517c55f562fa521f0}{%
+           family={Barata},
+           familyi={B\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba5476ea5ecff2c2a5ca553ce1d9751e}{%
+           family={Colombo},
+           familyi={C\bibinitperiod},
+           given={Armando\bibnamedelima Walter},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13e59e112449c8266579d8c0115d7139}
+      \strng{fullhash}{68685a300632465934ffada5342fedf0}
+      \strng{bibnamehash}{13e59e112449c8266579d8c0115d7139}
+      \strng{authorbibnamehash}{13e59e112449c8266579d8c0115d7139}
+      \strng{authornamehash}{13e59e112449c8266579d8c0115d7139}
+      \strng{authorfullhash}{68685a300632465934ffada5342fedf0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1913-3715, 1913-3723}
+      \field{journaltitle}{International Journal of Communications, Network and System Sciences}
+      \field{number}{03}
+      \field{shorttitle}{Big {Data} {Analysis} in {Smart} {Manufacturing}}
+      \field{title}{Big {Data} {Analysis} in {Smart} {Manufacturing}: {A} {Review}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{31\bibrangedash 58}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.4236/ijcns.2017.103003
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/nicolamastrandrea/Zotero/storage/LU9TMMTJ/Nagorny et al. - 2017 - Big Data Analysis in Smart Manufacturing A Review.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ijcns.2017.103003
+      \endverb
+      \verb{url}
+      \verb http://www.scirp.org/journal/doi.aspx?DOI=10.4236/ijcns.2017.103003
+      \endverb
+    \endentry
     \entry{oliff_towards_2017}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d760780795f411ddcbeb150dc5640497}{%
@@ -1032,12 +2411,12 @@
            given={Harley},
            giveni={H\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=d16056932a393b93367a5223974b55f6}{%
+        {{un=2,uniquepart=given,hash=d16056932a393b93367a5223974b55f6}{%
            family={Liu},
            familyi={L\bibinitperiod},
            given={Ying},
            giveni={Y\bibinitperiod},
-           givenun=1}}%
+           givenun=2}}%
       }
       \list{language}{1}{%
         {en}%
@@ -1079,6 +2458,89 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2212827117304997
       \endverb
     \endentry
+    \entry{putnik_scalability_2013}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=acfc64aa1e28be2032ab75f36bf8eb65}{%
+           family={Putnik},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad1cac49d80a9191b8e1ce83abe74a9d}{%
+           family={Sluga},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11241c7ff3ccbd44e8005eda53f2cda6}{%
+           family={ElMaraghy},
+           familyi={E\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=089b1d229a9ae548aeda5a6121bd4093}{%
+           family={Teti},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68e28d54204820006ff12df112baa4c7}{%
+           family={Koren},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60681577f502f54542ec6a3da0036209}{%
+           family={Tolio},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17cbb027a94dc26cfad28e242ad9efb4}{%
+           family={Hon},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{16d8d4d7bf335172279ce3f6b8b5f760}
+      \strng{fullhash}{2774f141f3b2f7dbaef46ef5627dc9f1}
+      \strng{bibnamehash}{16d8d4d7bf335172279ce3f6b8b5f760}
+      \strng{authorbibnamehash}{16d8d4d7bf335172279ce3f6b8b5f760}
+      \strng{authornamehash}{16d8d4d7bf335172279ce3f6b8b5f760}
+      \strng{authorfullhash}{2774f141f3b2f7dbaef46ef5627dc9f1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00078506}
+      \field{journaltitle}{CIRP Annals}
+      \field{number}{2}
+      \field{shorttitle}{Scalability in manufacturing systems design and operation}
+      \field{title}{Scalability in manufacturing systems design and operation: {State}-of-the-art and future developments roadmap}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{62}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{751\bibrangedash 774}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/j.cirp.2013.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007850613001923
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0007850613001923
+      \endverb
+    \endentry
     \entry{ren_cloud_2015}{article}{}
       \name{author}{6}{ul=3}{%
         {{un=0,uniquepart=base,hash=04c4bc29cb225b393a973fd6ccf6b00e}{%
@@ -1087,12 +2549,12 @@
            given={Lei},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+        {{un=1,uniquepart=given,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Lin},
            giveni={L\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=2,uniquepart=given,hash=f4149340bc388abb627321731645513a}{%
            family={Tao},
            familyi={T\bibinitperiod},
@@ -1165,12 +2627,12 @@
            given={Lei},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+        {{un=1,uniquepart=given,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Lin},
            giveni={L\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=1,uniquepart=given,hash=65436496e63d7ea35a6bc5c412afdc17}{%
            family={Wang},
            familyi={W\bibinitperiod},
@@ -1476,6 +2938,77 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0736584513000069
       \endverb
     \endentry
+    \entry{wang_towards_2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=68cbe4d4923daeeff7af0f116e45625e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shiyong},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=75916034f60ced983937f039403ca17f}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Jiafu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acb4fbd490ecb5bea58849feb58a43b4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Daqiang},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e16c2dbc9de83b1e4abe905d2b6d3045}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a1442684f9eb92637ec2753602c9398}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chunhua},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{01d09d0d5ec9f423fe077e7ae1f6bc86}
+      \strng{fullhash}{3324f960e16bd08ac7a83f1d1195c0e2}
+      \strng{bibnamehash}{01d09d0d5ec9f423fe077e7ae1f6bc86}
+      \strng{authorbibnamehash}{01d09d0d5ec9f423fe077e7ae1f6bc86}
+      \strng{authornamehash}{01d09d0d5ec9f423fe077e7ae1f6bc86}
+      \strng{authorfullhash}{3324f960e16bd08ac7a83f1d1195c0e2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{13891286}
+      \field{journaltitle}{Computer Networks}
+      \field{month}{6}
+      \field{shorttitle}{Towards smart factory for industry 4.0}
+      \field{title}{Towards smart factory for industry 4.0: a self-organized multi-agent system with big data based feedback and coordination}
+      \field{urlday}{26}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{101}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{158\bibrangedash 168}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.comnet.2015.12.017
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1389128615005046
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1389128615005046
+      \endverb
+    \endentry
     \entry{li_icms_2013}{incollection}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=f2b41ce6de858e4eb2bcae24c0bd0e4c}{%
@@ -1601,12 +3134,12 @@
            given={Wei},
            giveni={W\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=66d3c3089bcd7bce5ea942512ee9f7a2}{%
+        {{un=1,uniquepart=given,hash=66d3c3089bcd7bce5ea942512ee9f7a2}{%
            family={Zhou},
            familyi={Z\bibinitperiod},
            given={Feng},
            giveni={F\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=4e58b81d53cc4a659a2107410cc9b5ce}{%
            family={Liang},
            familyi={L\bibinitperiod},
@@ -1708,6 +3241,40 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/6269488/
       \endverb
+    \endentry
+    \entry{wooldridge_introduction_2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=ea0f2db42141b96e5751d533bd719db5}{%
+           family={Wooldridge},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Chichester, U.K}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{ea0f2db42141b96e5751d533bd719db5}
+      \strng{fullhash}{ea0f2db42141b96e5751d533bd719db5}
+      \strng{bibnamehash}{ea0f2db42141b96e5751d533bd719db5}
+      \strng{authorbibnamehash}{ea0f2db42141b96e5751d533bd719db5}
+      \strng{authornamehash}{ea0f2db42141b96e5751d533bd719db5}
+      \strng{authorfullhash}{ea0f2db42141b96e5751d533bd719db5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-0-470-51946-2}
+      \field{note}{OCLC: ocn246887666}
+      \field{title}{An introduction to multiagent systems}
+      \field{year}{2009}
+      \keyw{Intelligent agents (Computer software)}
     \endentry
     \entry{wu_cloud_2013-1}{inproceedings}{}
       \name{author}{4}{ul=2}{%
@@ -2006,12 +3573,12 @@
     \endentry
     \entry{zhang_cloud_2014}{article}{}
       \name{author}{10}{}{%
-        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+        {{un=1,uniquepart=given,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Lin},
            giveni={L\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=956f38d703db5557936abb5275c57159}{%
            family={Luo},
            familyi={L\bibinitperiod},
@@ -2104,6 +3671,205 @@
       \endverb
       \verb{url}
       \verb http://www.tandfonline.com/doi/abs/10.1080/17517575.2012.683812
+      \endverb
+    \endentry
+    \entry{zhang_analytical_2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=16e65af96e28b9b47ced0b11904c8b7e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yingfeng},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=887c29ce5956daaf957a0468de69659c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Geng},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2bd85aaf460832833b6706d64bb012f}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41aa48b0dd6f721c87a6463fd60fecf4}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Ray\bibnamedelima Y.},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9a31bdab733b93b7784edf41609ac7d0}
+      \strng{fullhash}{3aaf2139ae9bb527c394d0cfd2195119}
+      \strng{bibnamehash}{9a31bdab733b93b7784edf41609ac7d0}
+      \strng{authorbibnamehash}{9a31bdab733b93b7784edf41609ac7d0}
+      \strng{authornamehash}{9a31bdab733b93b7784edf41609ac7d0}
+      \strng{authorfullhash}{3aaf2139ae9bb527c394d0cfd2195119}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09596526}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{month}{5}
+      \field{title}{Analytical target cascading for optimal configuration of cloud manufacturing services}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{151}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{330\bibrangedash 343}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.jclepro.2017.03.027
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/nicolamastrandrea/Zotero/storage/Y52YRQ53/Zhang et al. - 2017 - Analytical target cascading for optimal configurat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0959652617304626
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0959652617304626
+      \endverb
+    \endentry
+    \entry{zhou_industry_2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=730f0ff47f19988b699528356825e61d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Keliang},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a5f8a2016f09c6e6024398f5d18b9dd2}{%
+           family={{Taigang Liu}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=da6a9939a130655db54b5caea1d4b545}{%
+           family={{Lifeng Zhou}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Zhangjiajie, China}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{de228f1e46648b3210e7ceded9860914}
+      \strng{fullhash}{de228f1e46648b3210e7ceded9860914}
+      \strng{bibnamehash}{de228f1e46648b3210e7ceded9860914}
+      \strng{authorbibnamehash}{de228f1e46648b3210e7ceded9860914}
+      \strng{authornamehash}{de228f1e46648b3210e7ceded9860914}
+      \strng{authorfullhash}{de228f1e46648b3210e7ceded9860914}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{2015 12th {International} {Conference} on {Fuzzy} {Systems} and {Knowledge} {Discovery} ({FSKD})}
+      \field{isbn}{978-1-4673-7682-2}
+      \field{month}{8}
+      \field{shorttitle}{Industry 4.0}
+      \field{title}{Industry 4.0: {Towards} future industrial opportunities and challenges}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{2147\bibrangedash 2152}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/FSKD.2015.7382284
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/7382284/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/7382284/
+      \endverb
+    \endentry
+    \entry{zhou_multi-task_2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=b759e68934cf9686a02c51db66301d03}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Longfei},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36d266ec810386d971f5b66dc4cea505}{%
+           family={Laili},
+           familyi={L\bibinitperiod},
+           given={Yuanjun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6f42dd069b0700af390591223ded2fb}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Chun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97a2195beb8bff2d21c01a2d42284a91}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Yingying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b5d451284ee3cc1d43a1968c871fc6f7}
+      \strng{fullhash}{2ba1b7c6a356a4240931f9e197f60681}
+      \strng{bibnamehash}{b5d451284ee3cc1d43a1968c871fc6f7}
+      \strng{authorbibnamehash}{b5d451284ee3cc1d43a1968c871fc6f7}
+      \strng{authornamehash}{b5d451284ee3cc1d43a1968c871fc6f7}
+      \strng{authorfullhash}{2ba1b7c6a356a4240931f9e197f60681}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0268-3768, 1433-3015}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{month}{6}
+      \field{number}{9-12}
+      \field{title}{Multi-task scheduling of distributed {3D} printing services in cloud manufacturing}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{volume}{96}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{3003\bibrangedash 3017}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s00170-017-1543-z
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00170-017-1543-z
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00170-017-1543-z
       \endverb
     \endentry
   \enddatalist
