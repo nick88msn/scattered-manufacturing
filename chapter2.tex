@@ -8,7 +8,7 @@ The search strings used in the research process are the following:
     \item TITLE-ABS-KEY("Cloud Manufacturing")
     \item (TITLE-ABS-KEY("Cloud Manufacturing") AND \\ TITLE-ABS-KEY(Architecture) OR TITLE-ABS-KEY(Framework))
 \end{enumerate}
-To define the inclusion criteria, mentioned search terms were considered, and based on them, a set of search terms were included in the search process. The database search was conducted from 2010 to 2020 since Cloud Manufacturing is an emerging and trending topic. Furthermore, only papers in the English language have been included. Table 1 represents the delimitations, inclusion, and exclusion criteria designed for the first screening stage.\\
+To define the inclusion criteria, mentioned search terms were considered, and based on them, a set of search terms were included in the search process. The database search was conducted from 2010 to 2020 since Cloud Manufacturing is an emerging and trending topic. Furthermore, only papers in the English language have been included. Table \ref{tab:database-search} represents the delimitations, inclusion, and exclusion criteria designed for the first screening stage.\\
 \begin{table}
     \centering
     \begin{tabular}{|l|l|}
@@ -29,7 +29,7 @@ To define the inclusion criteria, mentioned search terms were considered, and ba
     \label{tab:database-search}
 \end{table}
 
-The mentioned search terms were used for finding literature based on the inclusion of the search terms in the title, abstract, or keywords section of publications for the first screening stage. For the second screening stage, abstracts of all the selected literature were read to identify publications that might be used in the third stage that included reading through the publications. Table 2 represents the designed guideline for selecting publications after each screening stage in this literature review.
+The mentioned search terms were used for finding literature based on the inclusion of the search terms in the title, abstract, or keywords section of publications for the first screening stage. For the second screening stage, abstracts of all the selected literature were read to identify publications that might be used in the third stage that included reading through the publications. Table \ref{tab:pub-sel-process} represents the designed guideline for selecting publications after each screening stage in this literature review.
 \begin{table}
     \centering
     \begin{tabular}{|c|l|p{4cm}|}
@@ -152,7 +152,7 @@ The function view lists the various tasks that a system can perform and comprise
 \end{figure}
 
 
-Moreover, a novel approach that is not mainly focused on technical aspects of the Cloud Manufacturing system comes from \textcite{skulj_decentralised_2015} that proposed a decentralized perspective for a cloud manufacturing architecture (CMdna) shown in Figure 8. One of the main contributions of this work derives from the introduction of the concept of a cloud manager component (layer) with the aim of creating a flexible connection between cloud service providers and service users through the utilization of autonomous work systems (AWS) that acts as numerous manufacturing clouds which vary depending on the requirements of both service users and service providers. Such an architecture would allow several clouds to bid for each stage of the required work to make the process as cheap as possible for the end-user.
+Moreover, a novel approach that is not mainly focused on technical aspects of the Cloud Manufacturing system comes from \textcite{skulj_decentralised_2015} that proposed a decentralized perspective for a cloud manufacturing architecture (CMdna) shown in Figure \ref{fig:skulj-cmdna}. One of the main contributions of this work derives from the introduction of the concept of a cloud manager component (layer) with the aim of creating a flexible connection between cloud service providers and service users through the utilization of autonomous work systems (AWS) that acts as numerous manufacturing clouds which vary depending on the requirements of both service users and service providers. Such an architecture would allow several clouds to bid for each stage of the required work to make the process as cheap as possible for the end-user.
 
 \begin{figure}[h]
     \centering
@@ -161,9 +161,10 @@ Moreover, a novel approach that is not mainly focused on technical aspects of th
     \label{fig:skulj-cmdna}
 \end{figure}
 
-Based on the proposed architectures and considering the similarities of the models presented in the literature, a novel architecture is proposed on Chapter III to overcome issues not tackled by the typical configuration of the cloud manufacturing systems as depicted on Chapter II Section 5.
+Based on the proposed architectures and considering the similarities of the models presented in the literature, a novel architecture is proposed on \autoref{chapter3} to overcome issues not tackled by the typical configuration of the cloud manufacturing systems as depicted on \autoref{chapter2-sec5}.
 
-/section{Cloud Manufacturing Service Managemen}
+\section{Cloud Manufacturing Service Management}
+\label{chapter2-sec5}
 Services Management within Cloud Manufacturing is considered a critical issue. Indeed, an important goal of Cloud Manufacturing is to provide users with on-demand services for the manufacturing resources and capabilities they need. After these distributed and heterogeneous resources are virtualized, modelled, and transformed into services on the cloud, there is a solid need to effectively manage and coordinate these services in a centralized way to ensure the service performance, quality, security, and successful operation of manufacturing clouds \parencite{he_state---art_2015}. Resources can interact into a public cloud or a private cloud based on the difference in service object \parencite{zhang_cloud_2014}. In order to ensure service performance of Cloud Manufacturing, various methods have been proposed. \textcite{model_information_2012} developed a system based on an ontology of virtualized manufacturing resources. \textcite{liu_resource_2011} proposed three multi-agent systems architectures for different enterprise sizes. The three architecture are the following and mainly diversified by the role of the Master Agent:
 \begin{itemize}
     \item (a) the Facilitator Architecture: The facilitator is a special agent responsible for coordinating the communication among the agents. The facilitator provides a reliable communication layer, routes messages among agents based on the contents of the messages, and coordinates the control of the multi-agent activities. All the agents in a facilitator-centric architecture communicate with each other via the facilitator. As a result, the robustness of this architecture can be poor, and the overhead is relatively high.
